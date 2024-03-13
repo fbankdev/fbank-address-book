@@ -1,55 +1,56 @@
 export { G as GovernanceV3Ethereum } from './GovernanceV3Ethereum-LHujMzcO.mjs';
-export { G as GovernanceV3Arbitrum } from './GovernanceV3Arbitrum-kHxbD1dG.mjs';
-export { G as GovernanceV3Avalanche } from './GovernanceV3Avalanche-vWPugE_m.mjs';
-export { G as GovernanceV3Fuji } from './GovernanceV3Fuji-47WopzZ5.mjs';
-export { G as GovernanceV3Optimism } from './GovernanceV3Optimism-MLTo1dyu.mjs';
-export { G as GovernanceV3Polygon } from './GovernanceV3Polygon-4JaGlKKE.mjs';
-export { G as GovernanceV3Mumbai } from './GovernanceV3Mumbai-hW2YWwrF.mjs';
-export { G as GovernanceV3Goerli } from './GovernanceV3Goerli-83obB5-8.mjs';
-export { G as GovernanceV3Metis } from './GovernanceV3Metis-1hYSdt6X.mjs';
-export { G as GovernanceV3Base } from './GovernanceV3Base-ajp-3txe.mjs';
-export { G as GovernanceV3BNB } from './GovernanceV3BNB-2gLa9GdP.mjs';
-export { G as GovernanceV3Gnosis } from './GovernanceV3Gnosis-PWmuqB4b.mjs';
-export { G as GovernanceV3Scroll } from './GovernanceV3Scroll-V7y3XMb0.mjs';
-export { G as GovernanceV3PolygonZkEvm } from './GovernanceV3PolygonZkEvm-eHy242IA.mjs';
-export { A as AaveV2EthereumAMM } from './AaveV2EthereumAMM-ClY6aD2A.mjs';
-export { A as AaveV2EthereumArc } from './AaveV2EthereumArc-16Dy1wkD.mjs';
+export { G as GovernanceV3Arbitrum } from './GovernanceV3Arbitrum-agLF__j8.mjs';
+export { G as GovernanceV3Avalanche } from './GovernanceV3Avalanche-KKgJagB5.mjs';
+export { G as GovernanceV3Fuji } from './GovernanceV3Fuji-PxpGdOcI.mjs';
+export { G as GovernanceV3Optimism } from './GovernanceV3Optimism-R9DsJnOQ.mjs';
+export { G as GovernanceV3Polygon } from './GovernanceV3Polygon-kNAvFb7y.mjs';
+export { G as GovernanceV3Mumbai } from './GovernanceV3Mumbai-XS464gss.mjs';
+export { G as GovernanceV3Metis } from './GovernanceV3Metis-xSOpRZi9.mjs';
+export { G as GovernanceV3Base } from './GovernanceV3Base-roQqz1ie.mjs';
+export { G as GovernanceV3BNB } from './GovernanceV3BNB-1yk8MF2q.mjs';
+export { G as GovernanceV3Gnosis } from './GovernanceV3Gnosis-xv4AoXMI.mjs';
+export { G as GovernanceV3Scroll } from './GovernanceV3Scroll-xQkB0qCC.mjs';
+export { G as GovernanceV3PolygonZkEvm } from './GovernanceV3PolygonZkEvm-_6K98DI7.mjs';
+export { A as AaveV2EthereumAMM } from './AaveV2EthereumAMM-kfJDlF3I.mjs';
+export { A as AaveV2EthereumArc } from './AaveV2EthereumArc-h1_0P5GQ.mjs';
 export { A as AaveV2Ethereum } from './AaveV2Ethereum-timF4kft.mjs';
 export { A as AaveV2Polygon } from './AaveV2Polygon-MpjzdOmX.mjs';
 export { A as AaveV2Mumbai } from './AaveV2Mumbai-awOY9zZX.mjs';
-export { A as AaveV2Goerli } from './AaveV2Goerli-SBG5CzJ6.mjs';
 export { A as AaveV2Fuji } from './AaveV2Fuji-metRXuXC.mjs';
 export { A as AaveV2Avalanche } from './AaveV2Avalanche-DpAR3dgU.mjs';
-export { A as AaveV3Ethereum } from './AaveV3Ethereum-kI5u5bnB.mjs';
-export { A as AaveV3Sepolia } from './AaveV3Sepolia-IfTM_Yp1.mjs';
-export { A as AaveV3GoerliGho } from './AaveV3GoerliGho-HaZXBEbX.mjs';
-export { A as AaveV3Polygon } from './AaveV3Polygon-oBsqhNS5.mjs';
-export { A as AaveV3Mumbai } from './AaveV3Mumbai-L9432oTi.mjs';
-export { A as AaveV3Avalanche } from './AaveV3Avalanche-Bty9ciNl.mjs';
-export { A as AaveV3Fuji } from './AaveV3Fuji-DcQclswh.mjs';
-export { A as AaveV3Base } from './AaveV3Base-ynh0EDQv.mjs';
-export { A as AaveV3Metis } from './AaveV3Metis-Li6RaJBJ.mjs';
-export { A as AaveV3Gnosis } from './AaveV3Gnosis-wZjuUr1e.mjs';
-export { A as AaveV3PolygonZkEvm } from './AaveV3PolygonZkEvm-ER5mbt-P.mjs';
-export { A as AaveV3BNB } from './AaveV3BNB-0TVl6kLA.mjs';
-export { A as AaveV3Arbitrum } from './AaveV3Arbitrum-M1Cucpv1.mjs';
-export { A as AaveV3Optimism } from './AaveV3Optimism-7X30DbXw.mjs';
-export { A as AaveV3Scroll } from './AaveV3Scroll-QTiPTKVc.mjs';
-export { A as AaveV3ScrollSepolia } from './AaveV3ScrollSepolia-7pN_fXY8.mjs';
-export { A as AaveV3FantomTestnet } from './AaveV3FantomTestnet-tNPkiKAf.mjs';
-export { A as AaveV3Fantom } from './AaveV3Fantom-FeBZ_4BQ.mjs';
+export { A as AaveV3Ethereum } from './AaveV3Ethereum-SJJzUG2Z.mjs';
+export { A as AaveV3Sepolia } from './AaveV3Sepolia-h67vD_Ne.mjs';
+export { A as AaveV3Polygon } from './AaveV3Polygon-01isyUm7.mjs';
+export { A as AaveV3Mumbai } from './AaveV3Mumbai-ooH6wfrF.mjs';
+export { A as AaveV3Avalanche } from './AaveV3Avalanche-cb1Bm_Ax.mjs';
+export { A as AaveV3Fuji } from './AaveV3Fuji-niupURtd.mjs';
+export { A as AaveV3Base } from './AaveV3Base-K7UfARuN.mjs';
+export { A as AaveV3BaseSepolia } from './AaveV3BaseSepolia-VQxOvV9U.mjs';
+export { A as AaveV3Metis } from './AaveV3Metis-JqPIMxrb.mjs';
+export { A as AaveV3Gnosis } from './AaveV3Gnosis-Nw1D_QyO.mjs';
+export { A as AaveV3PolygonZkEvm } from './AaveV3PolygonZkEvm-b2ZocGD4.mjs';
+export { A as AaveV3BNB } from './AaveV3BNB-_V6FXDiF.mjs';
+export { A as AaveV3Arbitrum } from './AaveV3Arbitrum-pv4jy9Qf.mjs';
+export { A as AaveV3Optimism } from './AaveV3Optimism-DxehtEIl.mjs';
+export { A as AaveV3OptimismSepolia } from './AaveV3OptimismSepolia-Y45-m6qm.mjs';
+export { A as AaveV3Scroll } from './AaveV3Scroll-nMpp-3Ig.mjs';
+export { A as AaveV3ScrollSepolia } from './AaveV3ScrollSepolia-5DUDKGa-.mjs';
+export { A as AaveV3FantomTestnet } from './AaveV3FantomTestnet-BCyGMHd9.mjs';
+export { A as AaveV3Fantom } from './AaveV3Fantom-0EgVfzWk.mjs';
 export { M as MiscArbitrum } from './MiscArbitrum-XrIMyJIZ.mjs';
-export { M as MiscArbitrumSepolia } from './MiscArbitrumSepolia-hkHF9pBU.mjs';
+export { M as MiscArbitrumSepolia } from './MiscArbitrumSepolia-WznklaAc.mjs';
 export { M as MiscAvalanche } from './MiscAvalanche-JpOp4rs7.mjs';
 export { M as MiscBase } from './MiscBase-ctwHJI8j.mjs';
+export { M as MiscBaseSepolia } from './MiscBaseSepolia-O-YT2Rxj.mjs';
 export { M as MiscEthereum } from './MiscEthereum-gicEZBv_.mjs';
 export { M as MiscFantom } from './MiscFantom-4y0wKGfV.mjs';
 export { M as MiscOptimism } from './MiscOptimism-HQEjkg-T.mjs';
+export { M as MiscOptimismSepolia } from './MiscOptimismSepolia-lEF4cZVZ.mjs';
 export { M as MiscPolygon } from './MiscPolygon-fjTwMOze.mjs';
 export { M as MiscMetis } from './MiscMetis-HsR96rzd.mjs';
 export { M as MiscGnosis } from './MiscGnosis-7A6awgHD.mjs';
 export { M as MiscBNB } from './MiscBNB-kQZnOWYS.mjs';
-export { M as MiscScroll } from './MiscScroll-ICVWaLOs.mjs';
+export { M as MiscScroll } from './MiscScroll-ajXmO3yq.mjs';
 export { M as MiscPolygonZkEvm } from './MiscPolygonZkEvm-V5cqb9Q7.mjs';
 export { M as MiscSepolia } from './MiscSepolia-016B1mlB.mjs';
 export { M as MiscMumbai } from './MiscMumbai-M80zNGwM.mjs';
@@ -121,11 +122,11 @@ var tags = {
 		description: "Tokens that are wrapped into a 4626 Vault"
 	}
 };
-var timestamp = "2024-02-26T08:37:32.319Z";
+var timestamp = "2024-03-13T03:26:00.341Z";
 var version = {
 	major: 3,
 	minor: 0,
-	patch: 8
+	patch: 12
 };
 var tokens = [
 	{
@@ -136,7 +137,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 1,
@@ -148,6 +150,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -161,7 +164,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 1,
@@ -173,6 +177,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -186,7 +191,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 1,
@@ -198,6 +204,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -211,7 +218,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 1,
@@ -223,6 +231,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0xdAC17F958D2ee523a2206206994597C13D831ec7"
@@ -236,7 +245,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 1,
@@ -248,6 +258,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
@@ -611,7 +622,8 @@ var tokens = [
 		symbol: "BPT_WBTC_WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZs8zqWVEm88Vhi4Zm5A4xtUCKUMNDyfYnTrEuF6KGM6f"
 	},
 	{
 		chainId: 1,
@@ -623,6 +635,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWv9LXfiBm8w4Rq3sispDNsiNCe4zMWNyVwJgUtUHEqei",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0x1efF8aF5D577060BA4ac8A29A13525bb0Ee2A3D5"
@@ -636,7 +649,8 @@ var tokens = [
 		symbol: "BPT_BAL_WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZs8zqWVEm88Vhi4Zm5A4xtUCKUMNDyfYnTrEuF6KGM6f"
 	},
 	{
 		chainId: 1,
@@ -648,6 +662,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWv9LXfiBm8w4Rq3sispDNsiNCe4zMWNyVwJgUtUHEqei",
 		extensions: {
 			pool: "0x7937D4799803FbBe595ed57278Bc4cA21f3bFfCB",
 			underlying: "0x59A19D8c652FA0284f44113D0ff9aBa70bd46fB4"
@@ -713,6 +728,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xdAC17F958D2ee523a2206206994597C13D831ec7"
@@ -728,6 +744,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
@@ -743,6 +760,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -756,7 +774,8 @@ var tokens = [
 		symbol: "YFI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmNiDJEYBEXtNg1q4jYutEXwXappCeMnmwdyqjRvrvTADC"
 	},
 	{
 		chainId: 1,
@@ -768,6 +787,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmaZ5GBKJXe32dbcwiovAqf3YSGKX2vWcaEvwYePbnqqLY",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
@@ -781,7 +801,8 @@ var tokens = [
 		symbol: "ZRX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmeFLyEWDWsJfVJJNqUxfoFrc4AH7TkwThdA8ZGB7kPh11"
 	},
 	{
 		chainId: 1,
@@ -793,6 +814,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmXU5ijMUDHb81XBaAVaSsktSWHEaBzqf3jXeTWXDFm2xd",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
@@ -806,7 +828,8 @@ var tokens = [
 		symbol: "UNI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmdirs9nd2k8HJpYUhcpM3hqgD8Ajd2fdkKMhyHkHpAEKE"
 	},
 	{
 		chainId: 1,
@@ -818,6 +841,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmNnobGiDqAtmo7mRVrB8fEFTcLxxSDKGcULowB4fFb81p",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
@@ -831,7 +855,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 1,
@@ -843,6 +868,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
@@ -856,7 +882,8 @@ var tokens = [
 		symbol: "BAT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmTmFzFv7CMsjtNMi1sKYY4xX7VSwoKfKbs1VyaxEC2yMC"
 	},
 	{
 		chainId: 1,
@@ -868,6 +895,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmRgKZMxth7zfkECRgKiTBKTSYd7CTBAQ7QJ1tagKLvwdr",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
@@ -881,7 +909,8 @@ var tokens = [
 		symbol: "BUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmai95AK8nHkcgD6hd6dfkQHFdF3xB46aDBi3mTJT8znSS"
 	},
 	{
 		chainId: 1,
@@ -893,6 +922,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmQPm7PHMmiwvf6UsgH9K2HtkvoHM9udSPi3ZuWF3ZXjKA",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
@@ -908,6 +938,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -921,7 +952,8 @@ var tokens = [
 		symbol: "ENJ",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXk7mEcFU6zLM3XQEZKGw8CkhWn2KEmduLhbjh5Lk1bWz"
 	},
 	{
 		chainId: 1,
@@ -933,6 +965,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmQMdpYSWu9rjGC4qwLnc4bxHNdVVaVLH7fLB9KqVLQbWW",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
@@ -946,7 +979,8 @@ var tokens = [
 		symbol: "KNC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQf21Gq4rMV2P8nJEfJhUxRHz9EsXRBh8Bzw8Yi8As92Q"
 	},
 	{
 		chainId: 1,
@@ -958,6 +992,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmVaGxG4qpVAdasKXVZHwUs4s5p5pHx8YBciYerFNxCVa7",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
@@ -971,7 +1006,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 1,
@@ -983,6 +1019,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x514910771AF9Ca656af840dff83E8264EcF986CA"
@@ -996,7 +1033,8 @@ var tokens = [
 		symbol: "MANA",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmf5uzDrQJVBSL5Umcu7kWpYewn1M1ZYDQQREx3eVrBiLy"
 	},
 	{
 		chainId: 1,
@@ -1008,6 +1046,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZJTCJx1UGXmJTRk7LmJVNWvrfDmmX8bxCsfe3frpqSeB",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
@@ -1021,7 +1060,8 @@ var tokens = [
 		symbol: "MKR",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmPPYpoCgBGDZRMJdZFFTF1wpgr7UxPeNHrfqYPTpBfFXG"
 	},
 	{
 		chainId: 1,
@@ -1033,6 +1073,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmSUYyRFB6cHCB8uRtYpUjfb4NGmFE2HN2fFAdtBbKbEdK",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
@@ -1046,7 +1087,8 @@ var tokens = [
 		symbol: "REN",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRJTkw4D5hkvA6Jt4KH7kTC6ssmKC2hgTvU4RLpyZ6Uan"
 	},
 	{
 		chainId: 1,
@@ -1058,6 +1100,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPCqeFWT4uE8pZML4ubY2bPymLY8cWf612DSFGgSjo6dt",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x408e41876cCCDC0F92210600ef50372656052a38"
@@ -1071,7 +1114,8 @@ var tokens = [
 		symbol: "SNX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qma2MuTDzTUA8gd87J3QStqrMWYsCFxFHGtZdZJxMziYEc"
 	},
 	{
 		chainId: 1,
@@ -1083,6 +1127,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmSWgvkfY4NB4wiNa9uSY3h9gGMpZ2NgvYbDy57DNKLYAP",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
@@ -1096,7 +1141,8 @@ var tokens = [
 		symbol: "sUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmcbqpVtvBzDftrEj6RmBKGN5dY21nXan4vqaavhuzcCgH"
 	},
 	{
 		chainId: 1,
@@ -1108,6 +1154,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmTiRcxJxZbzcssRidHqsBUxxNwGDoEtSbXCG4RVQV1DyE",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
@@ -1121,7 +1168,8 @@ var tokens = [
 		symbol: "TUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmVyVsNP1Xk65eyKPbT56Cwib5rNZKReqmg4hPBzGvcnUn"
 	},
 	{
 		chainId: 1,
@@ -1133,6 +1181,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmTKP8tbGqoiP4suxnhFuMwRqgTK8DiSQtHpqVmpkZVkhE",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x0000000000085d4780B73119b644AE5ecd22b376"
@@ -1148,6 +1197,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -1161,7 +1211,8 @@ var tokens = [
 		symbol: "CRV",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
 	},
 	{
 		chainId: 1,
@@ -1173,6 +1224,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xD533a949740bb3306d119CC777fa900bA034cd52"
@@ -1186,7 +1238,8 @@ var tokens = [
 		symbol: "GUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmepjU7bQvQs3Lvfayifie64Fe4GghrrnLVnLuZZAfzkF3"
 	},
 	{
 		chainId: 1,
@@ -1198,6 +1251,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWvEKEEDCWLhh65JaAecqWrf8oBTcTSYcjE4r6mE8vze2",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
@@ -1211,7 +1265,8 @@ var tokens = [
 		symbol: "BAL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRFEuzFVk8x29R7QJDnRhYt2gJdyEG1cWsoW7HwgmBZGv"
 	},
 	{
 		chainId: 1,
@@ -1223,6 +1278,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmU917QWs519TSeKmMu8Hbn9UoYMS8PbWH5oEkQhsBt7df",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xba100000625a3754423978a60c9317c58a424e3D"
@@ -1236,7 +1292,8 @@ var tokens = [
 		symbol: "xSUSHI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmcbCp98TXgQEYBxviWHLWf6so2rsDXYtufeWXcA53nGBR"
 	},
 	{
 		chainId: 1,
@@ -1248,6 +1305,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdSDJALiWNUYaWQ6DERSV24S2LhMtFARCQUq3TnrKSo82",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272"
@@ -1261,7 +1319,8 @@ var tokens = [
 		symbol: "renFIL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmW13paFxKR7Jt6u1fvfn7ZvVoHGg4VhZx8p6zvHSp7ZUP"
 	},
 	{
 		chainId: 1,
@@ -1273,6 +1332,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmavX5qeBYJfDFym9mAm3WK8pjpWVQoU1dQ7xSGsvbLkzU",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5"
@@ -1286,7 +1346,8 @@ var tokens = [
 		symbol: "RAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmacJfsXxamwfNMND459rwrUdtSdkaJVfvgEAzmErcLxnf"
 	},
 	{
 		chainId: 1,
@@ -1298,6 +1359,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmXKjEGkEmdxUCUUAgXGtgNdPS4rhfmqV46KHS9ozv4Tw3",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
@@ -1311,7 +1373,8 @@ var tokens = [
 		symbol: "AMPL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmfEAr9Kb7q42ftoMdUufU69Gt5JdzHm2niNZXgobw9kyU"
 	},
 	{
 		chainId: 1,
@@ -1323,6 +1386,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmNSCUNBduUcL9YoeRTXZVxUGMz49b2YUSmsVPT4rPUFwY",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
@@ -1336,7 +1400,8 @@ var tokens = [
 		symbol: "USDP",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXt6cxKWQZjSK9dyYsqnRnuaLZhgBxwtreZ4vmrYF4ocP"
 	},
 	{
 		chainId: 1,
@@ -1348,6 +1413,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmeN3G8zXxNJRgSvtvcV7s4Bwt6crkRRsQiaMJJHHoeKcu",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x8E870D67F660D95d5be530380D0eC0bd388289E1"
@@ -1361,7 +1427,8 @@ var tokens = [
 		symbol: "DPI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmc1xYpLKX5k49xTiQYap6zVSfFEo8jiTQjYBqPBwA6qgS"
 	},
 	{
 		chainId: 1,
@@ -1373,6 +1440,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qmc8ppyEYGT3BPMWoEGTz6wotVrzMLxSmck2bBU2evgyz6",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
@@ -1386,7 +1454,8 @@ var tokens = [
 		symbol: "FRAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbQ3GbWnrHfDMVjC4TumgMQRCjxeotvEdjkuug2c8DFgG"
 	},
 	{
 		chainId: 1,
@@ -1398,6 +1467,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmXgxPx3HiQRkeHq4bqfu2QFsbf5mafdvgaaxEGF9qbv3b",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x853d955aCEf822Db058eb8505911ED77F175b99e"
@@ -1411,7 +1481,8 @@ var tokens = [
 		symbol: "FEI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmY3p8knfspLZCUafKkyH5BfRJyNDwK113557U4Q7TryuU"
 	},
 	{
 		chainId: 1,
@@ -1423,6 +1494,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmNQYkkWbyWnPsp5VxDQ4GHU5R1xqoPRuvbgJiT3RepDMV",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x956F47F50A910163D8BF957Cf5846D573E7f87CA"
@@ -1436,7 +1508,8 @@ var tokens = [
 		symbol: "stETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmf72VFeKfAXFKmKUcehp9pLYvBjRVJXXh8SKUteZjw6pb"
 	},
 	{
 		chainId: 1,
@@ -1448,6 +1521,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmXo6nMFupkdBmKecEuLiWhJyydmpHFF1A1bMeThKGTXEd",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
@@ -1461,7 +1535,8 @@ var tokens = [
 		symbol: "ENS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmWEbpogSWLuhqHK9DgWM88fPk12SdfJ8a1YJ4WxvVibvi"
 	},
 	{
 		chainId: 1,
@@ -1473,6 +1548,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWhWBkhAmMEPDzubZR6SWB2m8sWWH37eMAyWi4kisHoa2",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
@@ -1486,7 +1562,8 @@ var tokens = [
 		symbol: "UST",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmUco4Jup2EcvvECQn3E3W5UG3bs4ANpjRvQqTTgCkPvDz"
 	},
 	{
 		chainId: 1,
@@ -1498,6 +1575,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmT7XgUQaicJ5wEmPkRMtn3Y94E2JMgPTscgws1cFA7inb",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0xa693B19d2931d498c5B318dF961919BB4aee87a5"
@@ -1511,7 +1589,8 @@ var tokens = [
 		symbol: "CVX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbVG4cQR5xJXHHDvLLCeYbmnRtbXveLETxn9C8uDrt383"
 	},
 	{
 		chainId: 1,
@@ -1523,6 +1602,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPzJKazNmtF8BhPbHyHXvHRixKfqtJvP5vNem5Fmx8CS6",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B"
@@ -1536,7 +1616,8 @@ var tokens = [
 		symbol: "ONE_INCH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmekj8m5581EMvVtZqNLGVJ6VW89PcS15JGUvhu3LfjXy9"
 	},
 	{
 		chainId: 1,
@@ -1548,6 +1629,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmUqWPQsNNksGeZdeueEwrCx4ASf3f1FVuTjBKrkoEHD19",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x111111111117dC0aa78b770fA6A738034120C302"
@@ -1561,7 +1643,8 @@ var tokens = [
 		symbol: "LUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmfSpHdL6vMqm3QugTLtyuw99VNtRRgC4hJSJRSaTEXVDU"
 	},
 	{
 		chainId: 1,
@@ -1573,6 +1656,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmQ4w1ieq7beRErGP8HvoWdqisTFG7DYZmdyJHeUEUD19k",
 		extensions: {
 			pool: "0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9",
 			underlying: "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
@@ -1586,7 +1670,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 137,
@@ -1598,6 +1683,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
@@ -1611,7 +1697,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 137,
@@ -1623,6 +1710,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
@@ -1636,7 +1724,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 137,
@@ -1648,6 +1737,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
@@ -1661,7 +1751,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 137,
@@ -1673,6 +1764,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
@@ -1686,7 +1778,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 137,
@@ -1698,6 +1791,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
@@ -1711,7 +1805,8 @@ var tokens = [
 		symbol: "WMATIC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRabm36NBa4wpyv6PreR4pR7bGm1yKzmHtSE3v1s3ytqK"
 	},
 	{
 		chainId: 137,
@@ -1723,6 +1818,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmX2gS47CXJ8fwnCR3VnjvwTmmyWXD5dVLo6gGpvdLZn8w",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
@@ -1736,7 +1832,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 137,
@@ -1748,6 +1845,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
@@ -1761,7 +1859,8 @@ var tokens = [
 		symbol: "GHST",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmUASp75M3GSrYsbXt6vffL3Jj4kvsZqZeD8ixjpQMN7nF"
 	},
 	{
 		chainId: 137,
@@ -1773,6 +1872,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmbLWDnRUnfgL7TYQTWscEAruDZWAvWdu4y2GZ3ZEtsNLN",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
@@ -1786,7 +1886,8 @@ var tokens = [
 		symbol: "BAL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRFEuzFVk8x29R7QJDnRhYt2gJdyEG1cWsoW7HwgmBZGv"
 	},
 	{
 		chainId: 137,
@@ -1798,6 +1899,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmU917QWs519TSeKmMu8Hbn9UoYMS8PbWH5oEkQhsBt7df",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
@@ -1811,7 +1913,8 @@ var tokens = [
 		symbol: "DPI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmc1xYpLKX5k49xTiQYap6zVSfFEo8jiTQjYBqPBwA6qgS"
 	},
 	{
 		chainId: 137,
@@ -1823,6 +1926,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qmc8ppyEYGT3BPMWoEGTz6wotVrzMLxSmck2bBU2evgyz6",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369"
@@ -1836,7 +1940,8 @@ var tokens = [
 		symbol: "CRV",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
 	},
 	{
 		chainId: 137,
@@ -1848,6 +1953,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
@@ -1861,7 +1967,8 @@ var tokens = [
 		symbol: "SUSHI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmSmt97RzEDb8KKj7KUXXohZAwVYamFAtKY2rZTdeD8j72"
 	},
 	{
 		chainId: 137,
@@ -1873,6 +1980,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
@@ -1886,7 +1994,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 137,
@@ -1898,6 +2007,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf",
 			underlying: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
@@ -1911,7 +2021,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 80001,
@@ -1923,6 +2034,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x001B3B4d0F3714Ca98ba10F6042DaEbF0B1B7b6F"
@@ -1936,7 +2048,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 80001,
@@ -1948,6 +2061,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x2058A9D7613eEE744279e3856Ef0eAda5FCbaA7e"
@@ -1961,7 +2075,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 80001,
@@ -1973,6 +2088,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0xBD21A10F619BE90d6066c941b04e340841F1F989"
@@ -1986,7 +2102,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 80001,
@@ -1998,6 +2115,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x0d787a4a1548f673ed375445535a6c7A1EE56180"
@@ -2011,7 +2129,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 80001,
@@ -2023,6 +2142,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x3C68CE8504087f89c640D02d133646d98e64ddd9"
@@ -2036,7 +2156,8 @@ var tokens = [
 		symbol: "WMATIC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRabm36NBa4wpyv6PreR4pR7bGm1yKzmHtSE3v1s3ytqK"
 	},
 	{
 		chainId: 80001,
@@ -2048,6 +2169,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmX2gS47CXJ8fwnCR3VnjvwTmmyWXD5dVLo6gGpvdLZn8w",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889"
@@ -2061,7 +2183,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 80001,
@@ -2073,534 +2196,10 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x9198F13B08E299d85E096929fA9781A1E3d5d827",
 			underlying: "0x341d1f30e77D3FBfbD43D17183E2acb9dF25574E"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x0B7a69d978DdA361Db5356D4Bd0206496aFbDD96",
-		name: "AAVE",
-		decimals: 18,
-		symbol: "AAVE",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x5fDF09EE06219f96EffE1b4CC47f44A630C5A358",
-		name: "Aave interest bearing AAVE",
-		decimals: 18,
-		symbol: "aAAVE",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x0B7a69d978DdA361Db5356D4Bd0206496aFbDD96"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x515614aA3d8f09152b1289848383A260c7D053Ff",
-		name: "BAT",
-		decimals: 18,
-		symbol: "BAT",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x41355876CEC93c43cE4e784ce1b5f5e62557D2e2",
-		name: "Aave interest bearing BAT",
-		decimals: 18,
-		symbol: "aBAT",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x515614aA3d8f09152b1289848383A260c7D053Ff"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xa7c3Bf25FFeA8605B516Cf878B7435fe1768c89b",
-		name: "BUSD",
-		decimals: 18,
-		symbol: "BUSD",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xabd2878A23cba83F1e9790635e09e494b8E21333",
-		name: "Aave interest bearing BUSD",
-		decimals: 18,
-		symbol: "aBUSD",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xa7c3Bf25FFeA8605B516Cf878B7435fe1768c89b"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x75Ab5AB1Eef154C0352Fc31D2428Cef80C7F8B33",
-		name: "DAI",
-		decimals: 18,
-		symbol: "DAI",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x31f30d9A5627eAfeC4433Ae2886Cf6cc3D25E772",
-		name: "Aave interest bearing DAI",
-		decimals: 18,
-		symbol: "aDAI",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x75Ab5AB1Eef154C0352Fc31D2428Cef80C7F8B33"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x1057DCaa0b66dFBcEc5241fD51F4326C210f201F",
-		name: "ENJ",
-		decimals: 18,
-		symbol: "ENJ",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x3DB016c45090337e989C882F47Cf1Dc51fB6dE1B",
-		name: "Aave interest bearing ENJ",
-		decimals: 18,
-		symbol: "aENJ",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x1057DCaa0b66dFBcEc5241fD51F4326C210f201F"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x54Bc1D59873A5ABde98cf76B6EcF4075ff65d685",
-		name: "KNC",
-		decimals: 18,
-		symbol: "KNC",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x7D5e39D49Ca107b49Fd4c6cF777B04bdA79a675C",
-		name: "Aave interest bearing KNC",
-		decimals: 18,
-		symbol: "aKNC",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x54Bc1D59873A5ABde98cf76B6EcF4075ff65d685"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x7337e7FF9abc45c0e43f130C136a072F4794d40b",
-		name: "LINK",
-		decimals: 18,
-		symbol: "LINK",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x8c8cc9b893b6962409BCEaAFCA95d1044ce809bc",
-		name: "Aave interest bearing LINK",
-		decimals: 18,
-		symbol: "aLINK",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x7337e7FF9abc45c0e43f130C136a072F4794d40b"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x8d9EAc6f25470EFfD68f0AD22993CB2813c0c9B9",
-		name: "MANA",
-		decimals: 18,
-		symbol: "MANA",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x71d4C18Ce2bd9889E17099B1552D0b92FAe15731",
-		name: "Aave interest bearing MANA",
-		decimals: 18,
-		symbol: "aMANA",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x8d9EAc6f25470EFfD68f0AD22993CB2813c0c9B9"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x90be02599452FBC1a3D47E9EB62895330cfA05Ed",
-		name: "MKR",
-		decimals: 18,
-		symbol: "MKR",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xd77332d9FA5299010b403bB4f768ACb2d2E8A8a6",
-		name: "Aave interest bearing MKR",
-		decimals: 18,
-		symbol: "aMKR",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x90be02599452FBC1a3D47E9EB62895330cfA05Ed"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x3160F3f3B55eF85d0D27f04A2d74d426c32de842",
-		name: "REN",
-		decimals: 18,
-		symbol: "REN",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x2A4B55A3229470BE6Bc78f1b534Cfe8064107407",
-		name: "Aave interest bearing REN",
-		decimals: 18,
-		symbol: "aREN",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x3160F3f3B55eF85d0D27f04A2d74d426c32de842"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xFc1Ab0379db4B6ad8Bf5Bc1382e108a341E2EaBb",
-		name: "SNX",
-		decimals: 18,
-		symbol: "SNX",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x1Fad08D99F66fe709f4c4d7D81268d6fd380a20f",
-		name: "Aave interest bearing SNX",
-		decimals: 18,
-		symbol: "aSNX",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xFc1Ab0379db4B6ad8Bf5Bc1382e108a341E2EaBb"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x4e62eB262948671590b8D967BDE048557bdd03eD",
-		name: "SUSD",
-		decimals: 18,
-		symbol: "SUSD",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xb997a147657a9295137e54c6C19ECF9e97Eb4b36",
-		name: "Aave interest bearing SUSD",
-		decimals: 18,
-		symbol: "aSUSD",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x4e62eB262948671590b8D967BDE048557bdd03eD"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xc048C1b6ac47393F073dA2b3d5D1cc43b94891Fd",
-		name: "TUSD",
-		decimals: 18,
-		symbol: "TUSD",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x37416BA913324Bc0eEB60f27d5897d8A6A75028b",
-		name: "Aave interest bearing TUSD",
-		decimals: 18,
-		symbol: "aTUSD",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xc048C1b6ac47393F073dA2b3d5D1cc43b94891Fd"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x981D8AcaF6af3a46785e7741d22fBE81B25Ebf1e",
-		name: "UNI",
-		decimals: 18,
-		symbol: "UNI",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x6Ea7776f7d217b41Dc44684Da6f9FcD4eb9642C3",
-		name: "Aave interest bearing UNI",
-		decimals: 18,
-		symbol: "aUNI",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x981D8AcaF6af3a46785e7741d22fBE81B25Ebf1e"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x9FD21bE27A2B059a288229361E2fA632D8D2d074",
-		name: "USDC",
-		decimals: 6,
-		symbol: "USDC",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x935c0F6019b05C787573B5e6176681282A3f3E05",
-		name: "Aave interest bearing USDC",
-		decimals: 6,
-		symbol: "aUSDC",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x9FD21bE27A2B059a288229361E2fA632D8D2d074"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x65E2fe35C30eC218b46266F89847c63c2eDa7Dc7",
-		name: "USDT",
-		decimals: 6,
-		symbol: "USDT",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xDCb84F51dd4BeA1ce4b6118F087B260a71BB656c",
-		name: "Aave interest bearing USDT",
-		decimals: 6,
-		symbol: "aUSDT",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x65E2fe35C30eC218b46266F89847c63c2eDa7Dc7"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xf4423F4152966eBb106261740da907662A3569C5",
-		name: "WBTC",
-		decimals: 8,
-		symbol: "WBTC",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x2f8274ce7fB939014e657e480e9ed3e1131f242B",
-		name: "Aave interest bearing WBTC",
-		decimals: 8,
-		symbol: "aWBTC",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xf4423F4152966eBb106261740da907662A3569C5"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xCCa7d1416518D095E729904aAeA087dBA749A4dC",
-		name: "Wrapped Ether",
-		decimals: 18,
-		symbol: "WETH",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x22404B0e2a7067068AcdaDd8f9D586F834cCe2c5",
-		name: "Aave interest bearing WETH",
-		decimals: 18,
-		symbol: "aWETH",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xCCa7d1416518D095E729904aAeA087dBA749A4dC"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x6c260F702B6Bb9AC989DA4B0fcbE7fddF8f749c4",
-		name: "YFI",
-		decimals: 18,
-		symbol: "YFI",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xAF299560160896eF72219F0e2Ea67d4653cE8251",
-		name: "Aave interest bearing YFI",
-		decimals: 18,
-		symbol: "aYFI",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x6c260F702B6Bb9AC989DA4B0fcbE7fddF8f749c4"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xAcFd03DdF9C68015E1943FB02b60c5df56C4CB9e",
-		name: "ZRX",
-		decimals: 18,
-		symbol: "ZRX",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x22af6D8C0cD02a4EbdF6f79B6181DcC565f0b18e",
-		name: "Aave interest bearing ZRX",
-		decimals: 18,
-		symbol: "aZRX",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0xAcFd03DdF9C68015E1943FB02b60c5df56C4CB9e"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x45E18E77b15A02a31507e948A546a509A50a2376",
-		name: "xSUSHI",
-		decimals: 18,
-		symbol: "xSUSHI",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x8C1d95Ed70e16664b0CFF72c31a536a68474A4eA",
-		name: "Aave interest bearing xSUSHI",
-		decimals: 18,
-		symbol: "axSUSHI",
-		tags: [
-			"aTokenV2",
-			"aaveV2"
-		],
-		extensions: {
-			pool: "0x4bd5643ac6f66a5237E18bfA7d47cF22f1c9F210",
-			underlying: "0x45E18E77b15A02a31507e948A546a509A50a2376"
 		}
 	},
 	{
@@ -2611,7 +2210,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 43113,
@@ -2623,6 +2223,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x76cc67FF2CC77821A70ED14321111Ce381C2594D",
 			underlying: "0x9668f5f55f2712Dd2dfa316256609b516292D554"
@@ -2636,7 +2237,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 43113,
@@ -2648,6 +2250,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x76cc67FF2CC77821A70ED14321111Ce381C2594D",
 			underlying: "0x02823f9B469960Bb3b1de0B3746D4b95B7E35543"
@@ -2661,7 +2264,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 43113,
@@ -2673,6 +2277,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x76cc67FF2CC77821A70ED14321111Ce381C2594D",
 			underlying: "0x9C1DCacB57ADa1E9e2D3a8280B7cfC7EB936186F"
@@ -2686,7 +2291,8 @@ var tokens = [
 		symbol: "WAVAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qme4XBUtcWxSoLmEgp3jac9FFfCtRvECwaJixzrWgJ6g25"
 	},
 	{
 		chainId: 43113,
@@ -2698,6 +2304,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmaX6AwfikAj5LGTLmKWGp86cgp1xLUByvDjyBpjMnVP4U",
 		extensions: {
 			pool: "0x76cc67FF2CC77821A70ED14321111Ce381C2594D",
 			underlying: "0xd00ae08403B9bbb9124bB305C09058E32C39A48c"
@@ -2711,7 +2318,8 @@ var tokens = [
 		symbol: "WETHe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 43114,
@@ -2723,6 +2331,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
@@ -2736,7 +2345,8 @@ var tokens = [
 		symbol: "DAIe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 43114,
@@ -2748,6 +2358,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
@@ -2761,7 +2372,8 @@ var tokens = [
 		symbol: "USDTe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 43114,
@@ -2773,6 +2385,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
@@ -2786,7 +2399,8 @@ var tokens = [
 		symbol: "USDCe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 43114,
@@ -2798,6 +2412,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664"
@@ -2811,7 +2426,8 @@ var tokens = [
 		symbol: "AAVEe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 43114,
@@ -2823,6 +2439,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0x63a72806098Bd3D9520cC43356dD78afe5D386D9"
@@ -2836,7 +2453,8 @@ var tokens = [
 		symbol: "WBTCe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 43114,
@@ -2848,6 +2466,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0x50b7545627a5162F82A992c33b87aDc75187B218"
@@ -2861,7 +2480,8 @@ var tokens = [
 		symbol: "WAVAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qme4XBUtcWxSoLmEgp3jac9FFfCtRvECwaJixzrWgJ6g25"
 	},
 	{
 		chainId: 43114,
@@ -2873,6 +2493,7 @@ var tokens = [
 			"aTokenV2",
 			"aaveV2"
 		],
+		logoURI: "ipfs://QmaX6AwfikAj5LGTLmKWGp86cgp1xLUByvDjyBpjMnVP4U",
 		extensions: {
 			pool: "0x4F01AeD16D97E3aB5ab2B501154DC9bb0F1A5A2C",
 			underlying: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
@@ -2888,6 +2509,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
@@ -2903,6 +2525,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -2917,7 +2540,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 1,
@@ -2929,6 +2553,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
@@ -2944,6 +2569,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
@@ -2960,6 +2586,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
@@ -2975,6 +2602,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -2990,6 +2618,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -3006,6 +2635,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x6B175474E89094C44Da98b954EedeAC495271d0F"
@@ -3021,6 +2651,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -3037,6 +2668,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x514910771AF9Ca656af840dff83E8264EcF986CA"
@@ -3052,6 +2684,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
@@ -3065,7 +2698,8 @@ var tokens = [
 		symbol: "cbETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRKqHCWy8RiAhX3G9uWh36AKvmG9f6zoKKXyeTyWfFzkT"
 	},
 	{
 		chainId: 1,
@@ -3077,6 +2711,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdZuh723NQTqYyvSPZU1YBFYJynkJVg4TksDxeB8kxEsP",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704"
@@ -3092,6 +2727,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xdAC17F958D2ee523a2206206994597C13D831ec7"
@@ -3107,6 +2743,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -3121,7 +2758,8 @@ var tokens = [
 		symbol: "rETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXS5cVXfm95aQ1B3B9pSoZtje16VmfUNe2uzuoV8YGTfT"
 	},
 	{
 		chainId: 1,
@@ -3133,6 +2771,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmVbjYeRrKyGiQwn2LXzGv5wjb6S7C7xm8ka6nQQj2zwm9",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xae78736Cd615f374D3085123A210448E74Fc6393"
@@ -3148,6 +2787,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmQ4w1ieq7beRErGP8HvoWdqisTFG7DYZmdyJHeUEUD19k",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
@@ -3163,6 +2803,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmP1ELmLsgTWubFuy3exnwvzUZvR9mVETCVHLPRf4AGRob",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
@@ -3179,6 +2820,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xD533a949740bb3306d119CC777fa900bA034cd52"
@@ -3194,6 +2836,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmSUYyRFB6cHCB8uRtYpUjfb4NGmFE2HN2fFAdtBbKbEdK",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
@@ -3209,6 +2852,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmSWgvkfY4NB4wiNa9uSY3h9gGMpZ2NgvYbDy57DNKLYAP",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
@@ -3224,6 +2868,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmU917QWs519TSeKmMu8Hbn9UoYMS8PbWH5oEkQhsBt7df",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xba100000625a3754423978a60c9317c58a424e3D"
@@ -3239,6 +2884,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmNnobGiDqAtmo7mRVrB8fEFTcLxxSDKGcULowB4fFb81p",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
@@ -3252,7 +2898,8 @@ var tokens = [
 		symbol: "LDO",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmSvHQYpVqikR9m7qMyxm5xSgWTq3eP2o5spriHYgjCh3T"
 	},
 	{
 		chainId: 1,
@@ -3264,6 +2911,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmSmgrYgM5duYqYwqmgx5QVrNR2Jh9AYMw96Pwty6LveV4",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
@@ -3279,6 +2927,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWhWBkhAmMEPDzubZR6SWB2m8sWWH37eMAyWi4kisHoa2",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
@@ -3294,6 +2943,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUqWPQsNNksGeZdeueEwrCx4ASf3f1FVuTjBKrkoEHD19",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x111111111117dC0aa78b770fA6A738034120C302"
@@ -3309,6 +2959,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmXgxPx3HiQRkeHq4bqfu2QFsbf5mafdvgaaxEGF9qbv3b",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x853d955aCEf822Db058eb8505911ED77F175b99e"
@@ -3324,6 +2975,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmdAKJZQqmUfTm4Ah5Wwi9ZFeWEQ5w8Q8CNKSHtaPZTzCs",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x853d955aCEf822Db058eb8505911ED77F175b99e",
@@ -3338,7 +2990,8 @@ var tokens = [
 		symbol: "GHO",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmcrt9HVLmyPaizcn3LPvpFzSE94QtK5iZRRVzqzDbr8X8"
 	},
 	{
 		chainId: 1,
@@ -3350,6 +3003,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmeRyqK1GAa2b8qxviLsdYz43m7C4gG2cC7se9Z5CEvLv1",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f"
@@ -3363,7 +3017,8 @@ var tokens = [
 		symbol: "RPL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmc135FmyGEqb4QxMU78rmiQSm8xNWqL478smeP8oEwFrU"
 	},
 	{
 		chainId: 1,
@@ -3375,6 +3030,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdchT5egWa4UsnT2W8tTdwQbc1iNhYrExy4GxPbL45zTp",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xD33526068D116cE69F19A9ee46F0bd304F21A51f"
@@ -3388,7 +3044,8 @@ var tokens = [
 		symbol: "sDAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmdgjx3YmLRYovnGNCbwhRnCPmqx9fWjfSb5PXYaLEheTv"
 	},
 	{
 		chainId: 1,
@@ -3400,6 +3057,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcShgyB94MFE6vdGvu712ZvUmicGCVg8FtrRs6m83bd33",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x83F20F44975D03b1b09e64809B757c47f942BEeA"
@@ -3413,7 +3071,8 @@ var tokens = [
 		symbol: "STG",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmcbDU3xUkJaFQtqhCs1T6ASAXir62GQjcWCTsnn8GbiUn"
 	},
 	{
 		chainId: 1,
@@ -3425,6 +3084,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbcZf496UcQgadvYXvFU1W7Q5hWGtSGiheEwgQrWM6MMB",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6"
@@ -3438,7 +3098,8 @@ var tokens = [
 		symbol: "KNC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQf21Gq4rMV2P8nJEfJhUxRHz9EsXRBh8Bzw8Yi8As92Q"
 	},
 	{
 		chainId: 1,
@@ -3450,6 +3111,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmVaGxG4qpVAdasKXVZHwUs4s5p5pHx8YBciYerFNxCVa7",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202"
@@ -3463,7 +3125,8 @@ var tokens = [
 		symbol: "FXS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQ2FBV4BM1u9T7HVdavzT1K3dHY8tTggRfEK52xzWc7sM"
 	},
 	{
 		chainId: 1,
@@ -3475,6 +3138,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZB8UzRS6a95tZ3ybooszDSSEhJ9s3T3uNrf5Nrm2uvWf",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0"
@@ -3488,7 +3152,8 @@ var tokens = [
 		symbol: "crvUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZJHRMDUGCi51md2tF5uSQprzmCd7eCpFoyPjkaEfj4tz"
 	},
 	{
 		chainId: 1,
@@ -3500,6 +3165,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmX1zLWfebVGrbFKoHHbfRnAREytANGYmTWenmJggKnifR",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E"
@@ -3515,6 +3181,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmZtK1gKMLcsSxNVr9m1eNr6HgfSmD6wgJJThrpyzgzBnm",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
@@ -3529,7 +3196,8 @@ var tokens = [
 		symbol: "PYUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZjEgxza1ioKbArRGpxMwsiQMd3vGXikWT5XCxdiR1Q5k"
 	},
 	{
 		chainId: 1,
@@ -3541,6 +3209,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmSbjtomdbUic5yXMFVsLZbvN1C6VCqGVjKc3GocSoy37c",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8"
@@ -3556,6 +3225,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmQboUhnnbeJHebUWuTi7Y9uNhpTDk32pxD9Gm1NFpQ7AB",
 		extensions: {
 			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
 			underlying: "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
@@ -3570,7 +3240,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 11155111,
@@ -3582,6 +3253,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357"
@@ -3597,6 +3269,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
@@ -3611,7 +3284,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 11155111,
@@ -3623,6 +3297,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xf8Fb3713D459D7C1018BD0A49D19b4C44290EBE5"
@@ -3638,6 +3313,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xf8Fb3713D459D7C1018BD0A49D19b4C44290EBE5",
@@ -3652,7 +3328,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 11155111,
@@ -3664,6 +3341,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8"
@@ -3679,6 +3357,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
@@ -3693,7 +3372,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 11155111,
@@ -3705,6 +3385,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x29f2D40B0605204364af54EC677bD022dA425d03"
@@ -3720,6 +3401,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x29f2D40B0605204364af54EC677bD022dA425d03",
@@ -3734,7 +3416,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 11155111,
@@ -3746,6 +3429,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c"
@@ -3761,6 +3445,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c",
@@ -3775,7 +3460,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 11155111,
@@ -3787,6 +3473,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0"
@@ -3802,6 +3489,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
@@ -3816,7 +3504,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 11155111,
@@ -3828,6 +3517,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x88541670E55cC00bEEFD87eB59EDd1b7C511AC9a"
@@ -3843,6 +3533,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x88541670E55cC00bEEFD87eB59EDd1b7C511AC9a",
@@ -3857,7 +3548,8 @@ var tokens = [
 		symbol: "EURS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRZGtaQxgGucHXHaHYBUtYygLYJ7rioZWqoLzS2Hs9tRp"
 	},
 	{
 		chainId: 11155111,
@@ -3869,6 +3561,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTJGLN3PEJjTfdkgEhYUAc8JBcqmtsjJftAs4mA9nKNsT",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x6d906e526a4e2Ca02097BA9d0caA3c382F52278E"
@@ -3884,6 +3577,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmfVHpYk8KrXoHm6T9nMXFAGuJS6JZebcNDVYGhjmotnLz",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0x6d906e526a4e2Ca02097BA9d0caA3c382F52278E",
@@ -3898,7 +3592,8 @@ var tokens = [
 		symbol: "GHO",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmcrt9HVLmyPaizcn3LPvpFzSE94QtK5iZRRVzqzDbr8X8"
 	},
 	{
 		chainId: 11155111,
@@ -3910,159 +3605,10 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmeRyqK1GAa2b8qxviLsdYz43m7C4gG2cC7se9Z5CEvLv1",
 		extensions: {
 			pool: "0x6Ae43d3271ff6888e7Fc43Fd7321a503ff738951",
 			underlying: "0xc4bF5CbDaBE595361438F8c6a187bDc330539c60"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xE205181Eb3D7415f15377F79aA7769F846cE56DD",
-		name: "AAVE",
-		decimals: 18,
-		symbol: "AAVE",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xAC4D92980562Ac11Af46C6C7CEdD7C819C2028D0",
-		name: "Aave Testnet AAVE",
-		decimals: 18,
-		symbol: "aTestAAVE",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0xE205181Eb3D7415f15377F79aA7769F846cE56DD"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xD77b79BE3e85351fF0cbe78f1B58cf8d1064047C",
-		name: "DAI",
-		decimals: 18,
-		symbol: "DAI",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x7402b9625D1712426807952b798e3180dC38876F",
-		name: "Aave Testnet DAI",
-		decimals: 18,
-		symbol: "aTestDAI",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0xD77b79BE3e85351fF0cbe78f1B58cf8d1064047C"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x69305b943C6F55743b2Ece5c0b20507300a39FC3",
-		name: "USDC",
-		decimals: 6,
-		symbol: "USDC",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xdC916609281306558E0e8245bFBf90EFd3eCAb96",
-		name: "Aave Testnet USDC",
-		decimals: 6,
-		symbol: "aTestUSDC",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0x69305b943C6F55743b2Ece5c0b20507300a39FC3"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x84ced17d95F3EC7230bAf4a369F1e624Ae60090d",
-		name: "WETH",
-		decimals: 18,
-		symbol: "WETH",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x49871B521E44cb4a34b2bF2cbCF03C1CF895C48b",
-		name: "Aave Testnet WETH",
-		decimals: 18,
-		symbol: "aTestWETH",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0x84ced17d95F3EC7230bAf4a369F1e624Ae60090d"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0x2166903C38B4883B855eA2C77A02430a27Cdfede",
-		name: "LINK",
-		decimals: 18,
-		symbol: "LINK",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0x601c61Fc4eEe64a4b1f5201125b788dc1585746b",
-		name: "Aave Testnet LINK",
-		decimals: 18,
-		symbol: "aTestLINK",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0x2166903C38B4883B855eA2C77A02430a27Cdfede"
-		}
-	},
-	{
-		chainId: 5,
-		address: "0xcbE9771eD31e761b744D3cB9eF78A1f32DD99211",
-		name: "Gho Token",
-		decimals: 18,
-		symbol: "GHO",
-		tags: [
-			"underlying"
-		]
-	},
-	{
-		chainId: 5,
-		address: "0xdC25729a09241d24c4228f1a0C27137770cF363e",
-		name: "Aave Ethereum GHO",
-		decimals: 18,
-		symbol: "aEthGHO",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		extensions: {
-			pool: "0x617Cf26407193E32a771264fB5e9b8f09715CdfB",
-			underlying: "0xcbE9771eD31e761b744D3cB9eF78A1f32DD99211"
 		}
 	},
 	{
@@ -4075,6 +3621,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
@@ -4090,6 +3637,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
@@ -4106,6 +3654,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
@@ -4121,6 +3670,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
@@ -4137,6 +3687,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
@@ -4152,6 +3703,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
@@ -4168,6 +3720,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
@@ -4183,6 +3736,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
@@ -4199,6 +3753,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
@@ -4214,6 +3769,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
@@ -4230,6 +3786,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
@@ -4245,6 +3802,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
@@ -4261,6 +3819,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
@@ -4276,6 +3835,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
@@ -4292,6 +3852,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmX2gS47CXJ8fwnCR3VnjvwTmmyWXD5dVLo6gGpvdLZn8w",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
@@ -4307,6 +3868,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmeU62nP1hF45icTh2VEBP7iD7iNEwUmnS7E7ipxgq6ut7",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -4323,6 +3885,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
@@ -4338,6 +3901,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmd7JeemjZKRVxaMqi5CiWamXJJ9LP99bUXEsfYhS7Uprt",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
@@ -4354,6 +3918,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
@@ -4369,6 +3934,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmeKa8PicgDwLmv5ft1S3Qic5nepMjJzjsGmEFZ2nQzkB1",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
@@ -4385,6 +3951,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbLWDnRUnfgL7TYQTWscEAruDZWAvWdu4y2GZ3ZEtsNLN",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
@@ -4400,6 +3967,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXA5c8iXnMScBbWyYCBBXrhj1vcXB77iGAY1KEHapZSta",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
@@ -4416,6 +3984,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmU917QWs519TSeKmMu8Hbn9UoYMS8PbWH5oEkQhsBt7df",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3"
@@ -4431,6 +4000,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmd5Tfy4WHu9jghoCnsqwVjDY2zu2NkmvZY9SuDZBQ7rsA",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
@@ -4447,6 +4017,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmc8ppyEYGT3BPMWoEGTz6wotVrzMLxSmck2bBU2evgyz6",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369"
@@ -4462,6 +4033,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmQbuu5s49nPQFEEkuoCxhAyFgtouxUHeD7guv5pFwNAsb",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
@@ -4476,7 +4048,8 @@ var tokens = [
 		symbol: "EURS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRZGtaQxgGucHXHaHYBUtYygLYJ7rioZWqoLzS2Hs9tRp"
 	},
 	{
 		chainId: 137,
@@ -4488,6 +4061,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTJGLN3PEJjTfdkgEhYUAc8JBcqmtsjJftAs4mA9nKNsT",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99"
@@ -4503,6 +4077,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmfVHpYk8KrXoHm6T9nMXFAGuJS6JZebcNDVYGhjmotnLz",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
@@ -4517,7 +4092,8 @@ var tokens = [
 		symbol: "jEUR",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmTBVMWpkNmDbPGHbpmbdSqMNSDwV4GSM45yf22ketvVzU"
 	},
 	{
 		chainId: 137,
@@ -4529,6 +4105,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcSn1SghctN913XpcAjU3mgysF3xQmhiBmeFySXeYSfFD",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c"
@@ -4544,6 +4121,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmNx2g2uz4qGqyBrZ9UgMf4cFgJT8Ao4R6sAV7XaQHuZz8",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c",
@@ -4558,7 +4136,8 @@ var tokens = [
 		symbol: "agEUR",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmS8gdLAHvXQMDyjZmpK8Ex9fPXX3xb2sMtuHgnNMrTo52"
 	},
 	{
 		chainId: 137,
@@ -4570,6 +4149,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmR8p1PkNMgVcTRXFg94iZuJ4Lk5NvbqavJ2aNZfxP8PLB",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
@@ -4585,6 +4165,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmaz2g7Prwy5y21QFFVAQkjvV5XDTjBeLvMn5psLoWhtmn",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
@@ -4599,7 +4180,8 @@ var tokens = [
 		symbol: "miMATIC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m"
 	},
 	{
 		chainId: 137,
@@ -4611,6 +4193,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaHkpndT6sTUvYGveU6aGhLtYvBMZiUAGvjaHZzY7mCCw",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
@@ -4626,6 +4209,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmVTo3VE3oiUeB7B1QPAQ61ZC9PCguFVZ3pkyhdmdP2XFZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
@@ -4640,7 +4224,8 @@ var tokens = [
 		symbol: "stMATIC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmajGoDbMtsLimGZ9iC9chWH47fotyoYFK5WguYDEfLHZ3"
 	},
 	{
 		chainId: 137,
@@ -4652,6 +4237,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmd3TexvcQAwJVbwiMN8ty2vNg5JNk5AqQ3TnR7nrxZegd",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4"
@@ -4667,6 +4253,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmS7uffPPKaXB99iX4jAsM1rAoo4YDRmSnqKr8vryV1XoF",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
@@ -4681,7 +4268,8 @@ var tokens = [
 		symbol: "MaticX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmUJ5iUN7LzZBUAocxRjQSzdocyEvHARt3iMjAZw6L3bUY"
 	},
 	{
 		chainId: 137,
@@ -4693,6 +4281,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTRq84kcz8syjzdfkSHH6fv3H85J41cDnwrQ4fiQ7FwzP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6"
@@ -4708,6 +4297,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSwJm8UbJqnpHCV1KcNZNPV7S8nyC8GvCTEesA9mFMWN6",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
@@ -4722,7 +4312,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 137,
@@ -4734,6 +4325,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD"
@@ -4749,6 +4341,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
@@ -4763,7 +4356,8 @@ var tokens = [
 		symbol: "USDCn",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 137,
@@ -4775,6 +4369,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
@@ -4788,7 +4383,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 80001,
@@ -4800,6 +4396,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xc8c0Cf9436F4862a8F60Ce680Ca5a9f0f99b5ded"
@@ -4815,6 +4412,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xc8c0Cf9436F4862a8F60Ce680Ca5a9f0f99b5ded",
@@ -4829,7 +4427,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 80001,
@@ -4841,6 +4440,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x9DFf9E93B1e513379cf820504D642c6891d8F7CC"
@@ -4856,6 +4456,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x9DFf9E93B1e513379cf820504D642c6891d8F7CC",
@@ -4870,7 +4471,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 80001,
@@ -4882,6 +4484,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x52D800ca262522580CeBAD275395ca6e7598C014"
@@ -4897,6 +4500,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x52D800ca262522580CeBAD275395ca6e7598C014",
@@ -4911,7 +4515,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 80001,
@@ -4923,6 +4528,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x2Fa2e7a6dEB7bb51B625336DBe1dA23511914a8A"
@@ -4938,6 +4544,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x2Fa2e7a6dEB7bb51B625336DBe1dA23511914a8A",
@@ -4952,7 +4559,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 80001,
@@ -4964,6 +4572,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xc199807AF4fEDB02EE567Ed0FeB814A077de4802"
@@ -4979,6 +4588,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xc199807AF4fEDB02EE567Ed0FeB814A077de4802",
@@ -4993,7 +4603,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 80001,
@@ -5005,6 +4616,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x1fdE0eCc619726f4cD597887C9F3b4c8740e19e2"
@@ -5020,6 +4632,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x1fdE0eCc619726f4cD597887C9F3b4c8740e19e2",
@@ -5034,7 +4647,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 80001,
@@ -5046,6 +4660,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x1558c6FadDe1bEaf0f6628BDd1DFf3461185eA24"
@@ -5061,6 +4676,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x1558c6FadDe1bEaf0f6628BDd1DFf3461185eA24",
@@ -5075,7 +4691,8 @@ var tokens = [
 		symbol: "WMATIC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRabm36NBa4wpyv6PreR4pR7bGm1yKzmHtSE3v1s3ytqK"
 	},
 	{
 		chainId: 80001,
@@ -5087,6 +4704,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmX2gS47CXJ8fwnCR3VnjvwTmmyWXD5dVLo6gGpvdLZn8w",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xaD3C5a67275dE4b5554CdD1d961e957f408eF75a"
@@ -5102,6 +4720,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmeU62nP1hF45icTh2VEBP7iD7iNEwUmnS7E7ipxgq6ut7",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xaD3C5a67275dE4b5554CdD1d961e957f408eF75a",
@@ -5116,7 +4735,8 @@ var tokens = [
 		symbol: "CRV",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
 	},
 	{
 		chainId: 80001,
@@ -5128,6 +4748,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x2bbF1f48a678d2f7c291dc5F8fD04805D34F485f"
@@ -5143,6 +4764,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmd7JeemjZKRVxaMqi5CiWamXJJ9LP99bUXEsfYhS7Uprt",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x2bbF1f48a678d2f7c291dc5F8fD04805D34F485f",
@@ -5157,7 +4779,8 @@ var tokens = [
 		symbol: "SUSHI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmSmt97RzEDb8KKj7KUXXohZAwVYamFAtKY2rZTdeD8j72"
 	},
 	{
 		chainId: 80001,
@@ -5169,6 +4792,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x3c9F4EEa18B02ee331218646Fea59EE3661d2A61"
@@ -5184,6 +4808,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmeKa8PicgDwLmv5ft1S3Qic5nepMjJzjsGmEFZ2nQzkB1",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x3c9F4EEa18B02ee331218646Fea59EE3661d2A61",
@@ -5198,7 +4823,8 @@ var tokens = [
 		symbol: "GHST",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmUASp75M3GSrYsbXt6vffL3Jj4kvsZqZeD8ixjpQMN7nF"
 	},
 	{
 		chainId: 80001,
@@ -5210,6 +4836,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbLWDnRUnfgL7TYQTWscEAruDZWAvWdu4y2GZ3ZEtsNLN",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x9f86bA35a016acE27BD4C37E42a1940A5b2508EF"
@@ -5225,6 +4852,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXA5c8iXnMScBbWyYCBBXrhj1vcXB77iGAY1KEHapZSta",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x9f86bA35a016acE27BD4C37E42a1940A5b2508EF",
@@ -5239,7 +4867,8 @@ var tokens = [
 		symbol: "BAL",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRFEuzFVk8x29R7QJDnRhYt2gJdyEG1cWsoW7HwgmBZGv"
 	},
 	{
 		chainId: 80001,
@@ -5251,6 +4880,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmU917QWs519TSeKmMu8Hbn9UoYMS8PbWH5oEkQhsBt7df",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x00DF377c2C82a65A8bAe2Ff04a9434a721Bc5aEB"
@@ -5266,6 +4896,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmd5Tfy4WHu9jghoCnsqwVjDY2zu2NkmvZY9SuDZBQ7rsA",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x00DF377c2C82a65A8bAe2Ff04a9434a721Bc5aEB",
@@ -5280,7 +4911,8 @@ var tokens = [
 		symbol: "DPI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmc1xYpLKX5k49xTiQYap6zVSfFEo8jiTQjYBqPBwA6qgS"
 	},
 	{
 		chainId: 80001,
@@ -5292,6 +4924,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmc8ppyEYGT3BPMWoEGTz6wotVrzMLxSmck2bBU2evgyz6",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x55c7852e10fcd07cF63Ad1bb9FC191b6F4d96ebD"
@@ -5307,6 +4940,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmQbuu5s49nPQFEEkuoCxhAyFgtouxUHeD7guv5pFwNAsb",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0x55c7852e10fcd07cF63Ad1bb9FC191b6F4d96ebD",
@@ -5321,7 +4955,8 @@ var tokens = [
 		symbol: "EURS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRZGtaQxgGucHXHaHYBUtYygLYJ7rioZWqoLzS2Hs9tRp"
 	},
 	{
 		chainId: 80001,
@@ -5333,6 +4968,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTJGLN3PEJjTfdkgEhYUAc8JBcqmtsjJftAs4mA9nKNsT",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xB516d30421d2A0524769A243BBE5e193E78ab35c"
@@ -5348,6 +4984,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmfVHpYk8KrXoHm6T9nMXFAGuJS6JZebcNDVYGhjmotnLz",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xB516d30421d2A0524769A243BBE5e193E78ab35c",
@@ -5362,7 +4999,8 @@ var tokens = [
 		symbol: "JEUR",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmTBVMWpkNmDbPGHbpmbdSqMNSDwV4GSM45yf22ketvVzU"
 	},
 	{
 		chainId: 80001,
@@ -5374,6 +5012,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcSn1SghctN913XpcAjU3mgysF3xQmhiBmeFySXeYSfFD",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xd409F17095a370800A9C352124C6a1e82695203E"
@@ -5389,6 +5028,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmNx2g2uz4qGqyBrZ9UgMf4cFgJT8Ao4R6sAV7XaQHuZz8",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xd409F17095a370800A9C352124C6a1e82695203E",
@@ -5403,7 +5043,8 @@ var tokens = [
 		symbol: "AGEUR",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmS8gdLAHvXQMDyjZmpK8Ex9fPXX3xb2sMtuHgnNMrTo52"
 	},
 	{
 		chainId: 80001,
@@ -5415,6 +5056,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmR8p1PkNMgVcTRXFg94iZuJ4Lk5NvbqavJ2aNZfxP8PLB",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xcDA8dE50b65cB2Affc8B89f35C40A97Eed4B270F"
@@ -5430,6 +5072,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmaz2g7Prwy5y21QFFVAQkjvV5XDTjBeLvMn5psLoWhtmn",
 		extensions: {
 			pool: "0xcC6114B983E4Ed2737E9BD3961c9924e6216c704",
 			underlying: "0xcDA8dE50b65cB2Affc8B89f35C40A97Eed4B270F",
@@ -5446,6 +5089,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
@@ -5461,6 +5105,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
@@ -5475,7 +5120,8 @@ var tokens = [
 		symbol: "LINKe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 43114,
@@ -5487,6 +5133,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5947BB275c521040051D82396192181b413227A3"
@@ -5502,6 +5149,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5947BB275c521040051D82396192181b413227A3",
@@ -5516,7 +5164,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 43114,
@@ -5528,6 +5177,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
@@ -5543,6 +5193,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
@@ -5559,6 +5210,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x50b7545627a5162F82A992c33b87aDc75187B218"
@@ -5574,6 +5226,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x50b7545627a5162F82A992c33b87aDc75187B218",
@@ -5590,6 +5243,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
@@ -5605,6 +5259,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
@@ -5619,7 +5274,8 @@ var tokens = [
 		symbol: "USDt",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 43114,
@@ -5631,6 +5287,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
@@ -5646,6 +5303,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -5662,6 +5320,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x63a72806098Bd3D9520cC43356dD78afe5D386D9"
@@ -5677,6 +5336,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
@@ -5693,6 +5353,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaX6AwfikAj5LGTLmKWGp86cgp1xLUByvDjyBpjMnVP4U",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
@@ -5708,6 +5369,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmUcEYepgEfzEasDdMg61Y19f34hjgJe5oYbpveCvS1AxZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -5722,7 +5384,8 @@ var tokens = [
 		symbol: "sAVAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXTgbhEeFyiFYBgPP5DjSyACUKHWuwsZTqbB9bnTcKC3s"
 	},
 	{
 		chainId: 43114,
@@ -5734,6 +5397,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaHHwUwjGG4cu3X758MsDkDvtNBBt6jNKL8vdgSwpMNDK",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE"
@@ -5749,6 +5413,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qma8q5jesRMJiGx3m15TjjqrB2nt2K86FLwbBQjAVDHLXU",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
@@ -5763,7 +5428,8 @@ var tokens = [
 		symbol: "FRAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbQ3GbWnrHfDMVjC4TumgMQRCjxeotvEdjkuug2c8DFgG"
 	},
 	{
 		chainId: 43114,
@@ -5775,6 +5441,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmXgxPx3HiQRkeHq4bqfu2QFsbf5mafdvgaaxEGF9qbv3b",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64"
@@ -5790,6 +5457,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmdAKJZQqmUfTm4Ah5Wwi9ZFeWEQ5w8Q8CNKSHtaPZTzCs",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
@@ -5804,7 +5472,8 @@ var tokens = [
 		symbol: "MAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m"
 	},
 	{
 		chainId: 43114,
@@ -5816,6 +5485,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaHkpndT6sTUvYGveU6aGhLtYvBMZiUAGvjaHZzY7mCCw",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b"
@@ -5831,6 +5501,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmVTo3VE3oiUeB7B1QPAQ61ZC9PCguFVZ3pkyhdmdP2XFZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b",
@@ -5845,7 +5516,8 @@ var tokens = [
 		symbol: "BTCb",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZJtx3PgAporannzoXtgGzC6pbzUyffeCkkVinSm3wACd"
 	},
 	{
 		chainId: 43114,
@@ -5857,6 +5529,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmfJWCC1rubCBRyG1w6SjeTo9915JAGwCsFp4LPHhFiyZM",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x152b9d0FdC40C096757F570A51E494bd4b943E50"
@@ -5872,6 +5545,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmTc64oxP7WDUSGvUvBKWr118CBgyPMwx9LnzWYG2bvVMo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
@@ -5886,7 +5560,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 43113,
@@ -5898,6 +5573,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0x676bD5B5d0955925aeCe653C50426940c58036c8"
@@ -5911,7 +5587,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 43113,
@@ -5923,6 +5600,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0x3A38c4d0444b5fFcc5323b2e86A21aBaaf5FbF26"
@@ -5936,7 +5614,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 43113,
@@ -5948,6 +5627,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0xCaC7Ffa82c0f43EBB0FC11FCd32123EcA46626cf"
@@ -5961,7 +5641,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 43113,
@@ -5973,6 +5654,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0x0EFD8Ad2231c0B9C4d63F892E0a0a59a626Ce88d"
@@ -5986,7 +5668,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 43113,
@@ -5998,6 +5681,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0xf97b6C636167B529B6f1D729Bd9bC0e2Bd491848"
@@ -6011,7 +5695,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 43113,
@@ -6023,6 +5708,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0xBDE7fbbb1DC89E74B73C54Ad911A1C9685caCD83"
@@ -6036,7 +5722,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 43113,
@@ -6048,6 +5735,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0xfB4CeA030Fa61FC435E922CFDc4bF9C80456E19b"
@@ -6061,7 +5749,8 @@ var tokens = [
 		symbol: "WAVAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qme4XBUtcWxSoLmEgp3jac9FFfCtRvECwaJixzrWgJ6g25"
 	},
 	{
 		chainId: 43113,
@@ -6073,6 +5762,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaX6AwfikAj5LGTLmKWGp86cgp1xLUByvDjyBpjMnVP4U",
 		extensions: {
 			pool: "0xccEa5C65f6d4F465B71501418b88FBe4e7071283",
 			underlying: "0x2f6179f64FFe203899600Ba26d10979B314eA13D"
@@ -6086,7 +5776,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 8453,
@@ -6098,6 +5789,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x4200000000000000000000000000000000000006"
@@ -6113,6 +5805,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x4200000000000000000000000000000000000006",
@@ -6127,7 +5820,8 @@ var tokens = [
 		symbol: "cbETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRKqHCWy8RiAhX3G9uWh36AKvmG9f6zoKKXyeTyWfFzkT"
 	},
 	{
 		chainId: 8453,
@@ -6139,6 +5833,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdZuh723NQTqYyvSPZU1YBFYJynkJVg4TksDxeB8kxEsP",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22"
@@ -6154,6 +5849,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmUcybh2RkTK1DyhCGUigSBsiajr2GLoSuFMLcDjHSe2qr",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
@@ -6168,7 +5864,8 @@ var tokens = [
 		symbol: "USDbC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmTPKcLufsD1Yg4zAXZ5fPwCGUSV2hRxKFrHicaVxfApay"
 	},
 	{
 		chainId: 8453,
@@ -6180,6 +5877,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmXPCA5HhU75EQiGZ85D8L9QHgyRLsZS7h5JmgXPvh2gfx",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
@@ -6195,6 +5893,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmU66EapHG1qN7Y4RLLiouMAN8jPa73sDMkG3t8isESauA",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
@@ -6209,7 +5908,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 8453,
@@ -6221,6 +5921,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452"
@@ -6234,7 +5935,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 8453,
@@ -6246,6 +5948,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
@@ -6261,10 +5964,65 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
 			underlyingAToken: "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB"
+		}
+	},
+	{
+		chainId: 84532,
+		address: "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+		name: "USDC",
+		decimals: 6,
+		symbol: "USDC",
+		tags: [
+			"underlying"
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
+	},
+	{
+		chainId: 84532,
+		address: "0xf53B60F4006cab2b3C4688ce41fD5362427A2A66",
+		name: "Aave Base Sepolia USDC",
+		decimals: 6,
+		symbol: "aBasSepUSDC",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
+		extensions: {
+			pool: "0x07eA79F68B2B3df564D0A34F8e19D9B1e339814b",
+			underlying: "0x036CbD53842c5426634e7929541eC2318f3dCF7e"
+		}
+	},
+	{
+		chainId: 84532,
+		address: "0x4200000000000000000000000000000000000006",
+		name: "Wrapped Ether",
+		decimals: 18,
+		symbol: "WETH",
+		tags: [
+			"underlying"
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
+	},
+	{
+		chainId: 84532,
+		address: "0x96e32dE4B1d1617B8c2AE13a88B9cC287239b13f",
+		name: "Aave Base Sepolia WETH",
+		decimals: 18,
+		symbol: "aBasSepWETH",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
+		extensions: {
+			pool: "0x07eA79F68B2B3df564D0A34F8e19D9B1e339814b",
+			underlying: "0x4200000000000000000000000000000000000006"
 		}
 	},
 	{
@@ -6275,7 +6033,8 @@ var tokens = [
 		symbol: "mDAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 1088,
@@ -6287,6 +6046,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0"
@@ -6302,6 +6062,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
@@ -6316,7 +6077,8 @@ var tokens = [
 		symbol: "Metis",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmTwYnn4uzEh67jHS9pwirb7a3PiRRyc9NcKbUShtGReKp"
 	},
 	{
 		chainId: 1088,
@@ -6328,6 +6090,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcAKVxm8S2ygZ41tDzTVd7wbrA4F4WCUdux68bnrmLGdz",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
@@ -6343,6 +6106,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmctzTjMN7DZ9aMpYYrYh3zqz7vertnpzZxNKKPabvX3cj",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -6357,7 +6121,8 @@ var tokens = [
 		symbol: "mUSDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 1088,
@@ -6369,6 +6134,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21"
@@ -6384,6 +6150,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
@@ -6398,7 +6165,8 @@ var tokens = [
 		symbol: "mUSDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 1088,
@@ -6410,6 +6178,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC"
@@ -6425,6 +6194,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
@@ -6439,7 +6209,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 1088,
@@ -6451,6 +6222,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0x420000000000000000000000000000000000000A"
@@ -6466,6 +6238,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x90df02551bB792286e8D4f13E0e357b4Bf1D6a57",
 			underlying: "0x420000000000000000000000000000000000000A",
@@ -6480,7 +6253,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 100,
@@ -6492,6 +6266,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
@@ -6507,6 +6282,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
@@ -6521,7 +6297,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 100,
@@ -6533,6 +6310,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6"
@@ -6548,6 +6326,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
@@ -6562,7 +6341,8 @@ var tokens = [
 		symbol: "GNO",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZ4MwcvMAd9KudcFjZtfc92ECji9NALSeWDzGdKXiRsQF"
 	},
 	{
 		chainId: 100,
@@ -6574,6 +6354,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPJF5bW7MjPyFiFru1HVTPbaACwTFwqFxiMSMBa4or6Fu",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb"
@@ -6589,6 +6370,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRMU81xkBNLfHzdb4tFM9vG9whFtSEGDSVGx5ZhpMq19k",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
@@ -6603,7 +6385,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 100,
@@ -6615,6 +6398,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83"
@@ -6630,6 +6414,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
@@ -6644,7 +6429,8 @@ var tokens = [
 		symbol: "WXDAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmdt91LJPzHJ6ZeefVmW9SwjoZNq9KhPFhSXGCCmMPGSVJ"
 	},
 	{
 		chainId: 100,
@@ -6656,6 +6442,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZE72RZ7mVA3S2Wm5UKZNow9u6QUmCQpLva64BusFyr9J",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d"
@@ -6671,6 +6458,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmZ7Ry2hZ3d93Cigcr6EA9HZepinXbw8H6XytnDPgXWo46",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
@@ -6685,7 +6473,8 @@ var tokens = [
 		symbol: "EURe",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmYeA4ceb1v1ZRgoLtQdPgRtVJCWBPqDe2Hjub7fn4JRG6"
 	},
 	{
 		chainId: 100,
@@ -6697,6 +6486,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbYisD1unDS1bZGmRub8jE2M2zNRqbmtZDyY2QdDYYZ8E",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xcB444e90D8198415266c6a2724b7900fb12FC56E"
@@ -6712,6 +6502,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXH1Ldc46N5tRfSGPke7oUZqbVjPqR5nNS7F8W9gzzALj",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
@@ -6726,7 +6517,8 @@ var tokens = [
 		symbol: "sDAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmdgjx3YmLRYovnGNCbwhRnCPmqx9fWjfSb5PXYaLEheTv"
 	},
 	{
 		chainId: 100,
@@ -6738,6 +6530,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcShgyB94MFE6vdGvu712ZvUmicGCVg8FtrRs6m83bd33",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xaf204776c7245bF4147c2612BF6e5972Ee483701"
@@ -6753,6 +6546,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmajR418wCY3E2KzQjWtzQhwmKirhoFRf29cP2D5Mje8kT",
 		extensions: {
 			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
 			underlying: "0xaf204776c7245bF4147c2612BF6e5972Ee483701",
@@ -6767,7 +6561,8 @@ var tokens = [
 		symbol: "Cake",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmWffpc6A1kWbbyzZQZNttf7fk67SPBzY3mkSt8pWrjsZb"
 	},
 	{
 		chainId: 56,
@@ -6779,6 +6574,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmNzB8tGNaiJioH3ZkHZe8AeZa9jr1hsaVtCnVwGA5XtEL",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
@@ -6794,8 +6590,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmWYUq1YbQuJDtnE3GNU2YKzoCX43MmWVfhCuztnh2Ha4R",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 			underlyingAToken: "0x4199CC1F5ed0d796563d7CcB2e036253E2C18281"
 		}
@@ -6808,7 +6605,8 @@ var tokens = [
 		symbol: "WBNB",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmYkHbUqtUngVcvJBndE8xzgyK97PvGok2yimKedWVCZM7"
 	},
 	{
 		chainId: 56,
@@ -6820,6 +6618,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmd9NfsRoXuBmns3Nn7C2CR7K1i5s1D4A9WS3TcPui2pwP",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
@@ -6835,8 +6634,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmaq1SRAmNsPii9xEpoN8XQE4BbyMag7wvM4qmf9H1swSH",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
 			underlyingAToken: "0x9B00a09492a626678E5A3009982191586C444Df9"
 		}
@@ -6849,7 +6649,8 @@ var tokens = [
 		symbol: "BTCB",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZJtx3PgAporannzoXtgGzC6pbzUyffeCkkVinSm3wACd"
 	},
 	{
 		chainId: 56,
@@ -6861,6 +6662,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmfJWCC1rubCBRyG1w6SjeTo9915JAGwCsFp4LPHhFiyZM",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
@@ -6876,8 +6678,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmTc64oxP7WDUSGvUvBKWr118CBgyPMwx9LnzWYG2bvVMo",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
 			underlyingAToken: "0x56a7ddc4e848EbF43845854205ad71D5D5F72d3D"
 		}
@@ -6890,7 +6693,8 @@ var tokens = [
 		symbol: "ETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qma2czudF6pWRodzgmA7gSWDLozZxMNoseGHdc5Ap72wLM"
 	},
 	{
 		chainId: 56,
@@ -6902,6 +6706,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbTG48DGcZmUSBxvNnkMc7ZeLEAvWycBzznp9BFVgsPMb",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
@@ -6917,8 +6722,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmUJCELohSHtbvYFJKC6Rh42iQRhHaYrjbUwrUdXkz6rGe",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
 			underlyingAToken: "0x2E94171493fAbE316b6205f1585779C887771E2F"
 		}
@@ -6931,7 +6737,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 56,
@@ -6943,6 +6750,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
@@ -6958,8 +6766,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
 			underlyingAToken: "0x00901a076785e0906d1028c7d6372d247bec7d61"
 		}
@@ -6972,7 +6781,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 56,
@@ -6984,6 +6794,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x55d398326f99059fF775485246999027B3197955"
@@ -6999,8 +6810,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0x55d398326f99059fF775485246999027B3197955",
 			underlyingAToken: "0xa9251ca9DE909CB71783723713B21E4233fbf1B1"
 		}
@@ -7013,7 +6825,8 @@ var tokens = [
 		symbol: "FDUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXG59tkfhvMBFGwrJqN2svPFJAJHggwz2MipokvkUFg5U"
 	},
 	{
 		chainId: 56,
@@ -7025,6 +6838,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmadGhRSMFgh6oU7Lx1NcJjMpVdjk2dXeBoFn4MVM2DG85",
 		extensions: {
 			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409"
@@ -7040,8 +6854,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmf7uUScGkafxpVXbv7oF3uN45Z1r85mVyeBNJvvGMQNPT",
 		extensions: {
-			pool: "AaveV3BNB",
+			pool: "0x6807dc923806fE8Fd134338EABCA509979a7e0cB",
 			underlying: "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
 			underlyingAToken: "0x75bd1A659bdC62e4C313950d44A2416faB43E785"
 		}
@@ -7054,7 +6869,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 42161,
@@ -7066,6 +6882,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
@@ -7081,6 +6898,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -7095,7 +6913,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 42161,
@@ -7107,6 +6926,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
@@ -7122,6 +6942,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
@@ -7136,7 +6957,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 42161,
@@ -7148,6 +6970,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
@@ -7163,6 +6986,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
@@ -7177,7 +7001,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 42161,
@@ -7189,6 +7014,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
@@ -7204,6 +7030,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
@@ -7218,7 +7045,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 42161,
@@ -7230,6 +7058,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
@@ -7245,6 +7074,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
@@ -7259,7 +7089,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 42161,
@@ -7271,6 +7102,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
@@ -7286,6 +7118,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
@@ -7300,7 +7133,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 42161,
@@ -7312,6 +7146,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196"
@@ -7327,6 +7162,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
@@ -7341,7 +7177,8 @@ var tokens = [
 		symbol: "EURS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRZGtaQxgGucHXHaHYBUtYygLYJ7rioZWqoLzS2Hs9tRp"
 	},
 	{
 		chainId: 42161,
@@ -7353,6 +7190,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTJGLN3PEJjTfdkgEhYUAc8JBcqmtsjJftAs4mA9nKNsT",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD22a58f79e9481D1a88e00c343885A588b34b68B"
@@ -7368,6 +7206,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmfVHpYk8KrXoHm6T9nMXFAGuJS6JZebcNDVYGhjmotnLz",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
@@ -7382,7 +7221,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 42161,
@@ -7394,6 +7234,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5979D7b546E38E414F7E9822514be443A4800529"
@@ -7409,6 +7250,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x5979D7b546E38E414F7E9822514be443A4800529",
@@ -7423,7 +7265,8 @@ var tokens = [
 		symbol: "MAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m"
 	},
 	{
 		chainId: 42161,
@@ -7435,6 +7278,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaHkpndT6sTUvYGveU6aGhLtYvBMZiUAGvjaHZzY7mCCw",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d"
@@ -7450,6 +7294,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmVTo3VE3oiUeB7B1QPAQ61ZC9PCguFVZ3pkyhdmdP2XFZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
@@ -7464,7 +7309,8 @@ var tokens = [
 		symbol: "rETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXS5cVXfm95aQ1B3B9pSoZtje16VmfUNe2uzuoV8YGTfT"
 	},
 	{
 		chainId: 42161,
@@ -7476,6 +7322,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmVbjYeRrKyGiQwn2LXzGv5wjb6S7C7xm8ka6nQQj2zwm9",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8"
@@ -7491,6 +7338,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmdKPd4KWhBMgJVUX5aw2dxga9yY3cUJRzDt9xxPxnirED",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
@@ -7505,7 +7353,8 @@ var tokens = [
 		symbol: "LUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmfSpHdL6vMqm3QugTLtyuw99VNtRRgC4hJSJRSaTEXVDU"
 	},
 	{
 		chainId: 42161,
@@ -7517,6 +7366,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmQ4w1ieq7beRErGP8HvoWdqisTFG7DYZmdyJHeUEUD19k",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b"
@@ -7532,6 +7382,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmP1ELmLsgTWubFuy3exnwvzUZvR9mVETCVHLPRf4AGRob",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
@@ -7546,7 +7397,8 @@ var tokens = [
 		symbol: "USDCn",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 42161,
@@ -7558,6 +7410,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
@@ -7573,6 +7426,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
@@ -7587,7 +7441,8 @@ var tokens = [
 		symbol: "FRAX",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbQ3GbWnrHfDMVjC4TumgMQRCjxeotvEdjkuug2c8DFgG"
 	},
 	{
 		chainId: 42161,
@@ -7599,6 +7454,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmXgxPx3HiQRkeHq4bqfu2QFsbf5mafdvgaaxEGF9qbv3b",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F"
@@ -7614,6 +7470,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmdAKJZQqmUfTm4Ah5Wwi9ZFeWEQ5w8Q8CNKSHtaPZTzCs",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
@@ -7628,7 +7485,8 @@ var tokens = [
 		symbol: "ARB",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmWYwKVmso9jBzaSps4zcfBW36D53mGhhYi8wqDLsVHE3K"
 	},
 	{
 		chainId: 42161,
@@ -7640,6 +7498,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmT45VyMB9w4WmhVS2rwFfwfJu2uLL3PXjDG33fs9bY8fJ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x912CE59144191C1204E64559FE8253a0e49E6548"
@@ -7655,6 +7514,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmQyk5ckejQ5pLDLuWWxjyT844PN1HoTg9wb7aNc75k27A",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x912CE59144191C1204E64559FE8253a0e49E6548",
@@ -7669,7 +7529,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 10,
@@ -7681,6 +7542,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
@@ -7696,6 +7558,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmSU8whDiDpbXxK5ndZMFoQkwvAUzbG6DbhCNYiH8zE59T",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
@@ -7710,7 +7573,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 10,
@@ -7722,6 +7586,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6"
@@ -7737,6 +7602,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmceCJrUgAjjKjqcMQ2xcrV4ZYJYGLsyusinPrDrYU7rjZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
@@ -7751,7 +7617,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 10,
@@ -7763,6 +7630,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x7F5c764cBc14f9669B88837ca1490cCa17c31607"
@@ -7778,6 +7646,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
@@ -7792,7 +7661,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 10,
@@ -7804,6 +7674,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x68f180fcCe6836688e9084f035309E29Bf0A2095"
@@ -7819,6 +7690,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRHKbYScFWygn3rU2Pksj3BBAVJxYRuXnjjWxzjXnb5CN",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
@@ -7833,7 +7705,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 10,
@@ -7845,6 +7718,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4200000000000000000000000000000000000006"
@@ -7860,6 +7734,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4200000000000000000000000000000000000006",
@@ -7874,7 +7749,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 10,
@@ -7886,6 +7762,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
@@ -7901,6 +7778,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://Qmb8xoWyKYRwcm8mbUgGTpVSGaTkq3jHbjaV2Prg3mnVwW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -7915,7 +7793,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 10,
@@ -7927,6 +7806,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x76FB31fb4af56892A25e32cFC43De717950c9278"
@@ -7942,6 +7822,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRfMKzQ8Nq2oyDeRBvS36YbDXDuVi4EgcY56kLoxaBrA1",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x76FB31fb4af56892A25e32cFC43De717950c9278",
@@ -7956,7 +7837,8 @@ var tokens = [
 		symbol: "sUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmcbqpVtvBzDftrEj6RmBKGN5dY21nXan4vqaavhuzcCgH"
 	},
 	{
 		chainId: 10,
@@ -7968,6 +7850,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTiRcxJxZbzcssRidHqsBUxxNwGDoEtSbXCG4RVQV1DyE",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9"
@@ -7983,6 +7866,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmUjWntfrgnZwjGQmAkqbjCk3tZRjBxMRMDrXd6aL7QnR5",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
@@ -7997,7 +7881,8 @@ var tokens = [
 		symbol: "OP",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qmags5iiVGex6AQHi6BrJgakP3PGXM4YzNq93q1fmiZv48"
 	},
 	{
 		chainId: 10,
@@ -8009,6 +7894,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmeTENTuCMJcyaAXawCguHY9xfnb9KAgmvzr6gsTo1sHqY",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4200000000000000000000000000000000000042"
@@ -8024,6 +7910,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmTehL9mXnrsdiKe5ckDcmZq2pWtLJLYj4JFQWvnfC6LtK",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x4200000000000000000000000000000000000042",
@@ -8038,7 +7925,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 10,
@@ -8050,6 +7938,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb"
@@ -8065,6 +7954,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
@@ -8079,7 +7969,8 @@ var tokens = [
 		symbol: "LUSD",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmfSpHdL6vMqm3QugTLtyuw99VNtRRgC4hJSJRSaTEXVDU"
 	},
 	{
 		chainId: 10,
@@ -8091,6 +7982,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmQ4w1ieq7beRErGP8HvoWdqisTFG7DYZmdyJHeUEUD19k",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819"
@@ -8106,6 +7998,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmP1ELmLsgTWubFuy3exnwvzUZvR9mVETCVHLPRf4AGRob",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
@@ -8120,7 +8013,8 @@ var tokens = [
 		symbol: "MAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaJ1parKZi5JhUHFjKxvmkxC8ArTFT5PtSXN5kW58969m"
 	},
 	{
 		chainId: 10,
@@ -8132,6 +8026,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaHkpndT6sTUvYGveU6aGhLtYvBMZiUAGvjaHZzY7mCCw",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xdFA46478F9e5EA86d57387849598dbFB2e964b02"
@@ -8147,6 +8042,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmVTo3VE3oiUeB7B1QPAQ61ZC9PCguFVZ3pkyhdmdP2XFZ",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
@@ -8161,7 +8057,8 @@ var tokens = [
 		symbol: "rETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmXS5cVXfm95aQ1B3B9pSoZtje16VmfUNe2uzuoV8YGTfT"
 	},
 	{
 		chainId: 10,
@@ -8173,6 +8070,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmVbjYeRrKyGiQwn2LXzGv5wjb6S7C7xm8ka6nQQj2zwm9",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D"
@@ -8188,6 +8086,7 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmdKPd4KWhBMgJVUX5aw2dxga9yY3cUJRzDt9xxPxnirED",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
@@ -8202,7 +8101,8 @@ var tokens = [
 		symbol: "USDCn",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 10,
@@ -8214,9 +8114,81 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+		}
+	},
+	{
+		chainId: 10,
+		address: "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
+		name: "Static Aave Optimism USDCn",
+		decimals: 6,
+		symbol: "stataOptUSDCn",
+		tags: [
+			"aaveV3",
+			"stataToken"
+		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
+		extensions: {
+			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+			underlying: "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+			underlyingAToken: "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5"
+		}
+	},
+	{
+		chainId: 11155420,
+		address: "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
+		name: "USDC",
+		decimals: 6,
+		symbol: "USDC",
+		tags: [
+			"underlying"
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
+	},
+	{
+		chainId: 11155420,
+		address: "0xa818F1B57c201E092C4A2017A91815034326Efd1",
+		name: "Aave Optimism Sepolia USDC",
+		decimals: 6,
+		symbol: "aOptSepUSDC",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
+		extensions: {
+			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
+			underlying: "0x5fd84259d66Cd46123540766Be93DFE6D43130D7"
+		}
+	},
+	{
+		chainId: 11155420,
+		address: "0x4200000000000000000000000000000000000006",
+		name: "Wrapped Ether",
+		decimals: 18,
+		symbol: "WETH",
+		tags: [
+			"underlying"
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
+	},
+	{
+		chainId: 11155420,
+		address: "0x23e4E76D01B2002BE436CE8d6044b0aA2f68B68a",
+		name: "Aave Optimism Sepolia WETH",
+		decimals: 18,
+		symbol: "aOptSepWETH",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
+		extensions: {
+			pool: "0xb50201558B00496A145fE76f7424749556E326D8",
+			underlying: "0x4200000000000000000000000000000000000006"
 		}
 	},
 	{
@@ -8227,7 +8199,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 534352,
@@ -8239,6 +8212,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0x5300000000000000000000000000000000000004"
@@ -8254,8 +8228,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmXzX6n31pVXvFm6Ff6zi3wTro88DEvaNYbUeWg3NtPEwr",
 		extensions: {
-			pool: "AaveV3Scroll",
+			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0x5300000000000000000000000000000000000004",
 			underlyingAToken: "0xf301805bE1Df81102C957f6d4Ce29d2B8c056B2a"
 		}
@@ -8268,7 +8243,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 534352,
@@ -8280,6 +8256,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4"
@@ -8295,8 +8272,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
 		extensions: {
-			pool: "AaveV3Scroll",
+			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
 			underlyingAToken: "0x1D738a3436A8C49CefFbaB7fbF04B660fb528CbD"
 		}
@@ -8309,7 +8287,8 @@ var tokens = [
 		symbol: "wstETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbCWJgjiGsS9wXDXtzDMakmCF9qTHMh4thCJ7jxghgjL2"
 	},
 	{
 		chainId: 534352,
@@ -8321,6 +8300,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmUuRgJaCvyPTf3vkLaU2iHVBz7gtijACb2kb9EHod71qY",
 		extensions: {
 			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32"
@@ -8336,8 +8316,9 @@ var tokens = [
 			"aaveV3",
 			"stataToken"
 		],
+		logoURI: "ipfs://QmaVefYiKoaA9o22zUV3p7PGqhFhx8vaPos2M7jxx9DU33",
 		extensions: {
-			pool: "AaveV3Scroll",
+			pool: "0x11fCfe756c05AD438e312a7fd934381537D3cFfe",
 			underlying: "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
 			underlyingAToken: "0x5B1322eeb46240b02e20062b8F0F9908d525B09c"
 		}
@@ -8350,7 +8331,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 534351,
@@ -8362,6 +8344,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0x7984E363c38b590bB4CA35aEd5133Ef2c6619C40"
@@ -8375,7 +8358,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 534351,
@@ -8387,6 +8371,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0x279cBF5B7e3651F03CB9b71A9E7A3c924b267801"
@@ -8400,7 +8385,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 534351,
@@ -8412,6 +8398,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0x2C9678042D52B97D27f2bD2947F7111d93F3dD0D"
@@ -8425,7 +8412,8 @@ var tokens = [
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 534351,
@@ -8437,6 +8425,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0x5EA79f3190ff37418d42F9B2618688494dBD9693"
@@ -8450,7 +8439,8 @@ var tokens = [
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 534351,
@@ -8462,6 +8452,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0xb123dCe044EdF0a755505d9623Fba16C0F41cae9"
@@ -8475,7 +8466,8 @@ var tokens = [
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 534351,
@@ -8487,6 +8479,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0x186C0C26c45A8DA1Da34339ee513624a9609156d"
@@ -8500,7 +8493,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 534351,
@@ -8512,6 +8506,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0xfc2921bE7B2762F0E87039905d6019B0fF5978a8"
@@ -8525,7 +8520,8 @@ var tokens = [
 		symbol: "EURS",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRZGtaQxgGucHXHaHYBUtYygLYJ7rioZWqoLzS2Hs9tRp"
 	},
 	{
 		chainId: 534351,
@@ -8537,6 +8533,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTJGLN3PEJjTfdkgEhYUAc8JBcqmtsjJftAs4mA9nKNsT",
 		extensions: {
 			pool: "0x48914C788295b5db23aF2b5F0B3BE775C4eA9440",
 			underlying: "0xDf40f3a3566b4271450083f1Ad5732590BA47575"
@@ -8544,17 +8541,18 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0xcF1F89126cdA301A64976083CBeA0cA2E22a3d71",
+		address: "0x6861f2FC3d4C3eAD19DBC8aCe1D57e0b9D3CE3Fc",
 		name: "DAI",
 		decimals: 18,
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 4002,
-		address: "0xEc1DBE9e5BfFe8010fDCe7D60B139404Ea10ed12",
+		address: "0xC1b4FE615953d45D39d5Bcc89d6bED210326418d",
 		name: "Aave Fantom DAI",
 		decimals: 18,
 		symbol: "aFanDAI",
@@ -8562,24 +8560,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0xcF1F89126cdA301A64976083CBeA0cA2E22a3d71"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0x6861f2FC3d4C3eAD19DBC8aCe1D57e0b9D3CE3Fc"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x9f5d17A6361759e535b456dacD0B568668D2ba00",
+		address: "0xa0Efac8263bB72a02fFE9696C69c24675b920D9B",
 		name: "LINK",
 		decimals: 18,
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 4002,
-		address: "0xe2088a776a4a464462D326FAFd1AA2da900C9F89",
+		address: "0x8194FC6Ce5f1885ac84Fd92E4d7Aa1C85Ad5BF4F",
 		name: "Aave Fantom LINK",
 		decimals: 18,
 		symbol: "aFanLINK",
@@ -8587,24 +8587,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x9f5d17A6361759e535b456dacD0B568668D2ba00"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xa0Efac8263bB72a02fFE9696C69c24675b920D9B"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0xcd308B2F84B9186FB3ec5c95C674c651c862C405",
+		address: "0xa37fFa2FC472855E16b7fE95237684C24BC05954",
 		name: "USDC",
 		decimals: 6,
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 4002,
-		address: "0xa8e86844e6576f247D36e12069C69F67713942F3",
+		address: "0x001E9436C5215550CfBbD520f5EEe8c9C85f1980",
 		name: "Aave Fantom USDC",
 		decimals: 6,
 		symbol: "aFanUSDC",
@@ -8612,24 +8614,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0xcd308B2F84B9186FB3ec5c95C674c651c862C405"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xa37fFa2FC472855E16b7fE95237684C24BC05954"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x508Ed1616d13D0db963020bFc4C10e236a7fb005",
+		address: "0x142943f1294e3b2D2feBb1515ED415C229D62235",
 		name: "WBTC",
 		decimals: 8,
 		symbol: "WBTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmchSk4QRc4hatKBGvoPaF7QTXwuGJBhAnEJ5DcrSsiYJ5"
 	},
 	{
 		chainId: 4002,
-		address: "0x0Ea4531E4E3Adc051D4933524999C8c7B49cAC72",
+		address: "0xeDAEAD24fC8D91D71454f933E609Ca806EF15113",
 		name: "Aave Fantom WBTC",
 		decimals: 8,
 		symbol: "aFanWBTC",
@@ -8637,24 +8641,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x508Ed1616d13D0db963020bFc4C10e236a7fb005"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0x142943f1294e3b2D2feBb1515ED415C229D62235"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0xfa698e167bcCF7D33BE180f9944174573B276Ae7",
+		address: "0xa2E42c48Fd8C5f1297A4c9E022B84a0323b3A8c1",
 		name: "WETH",
 		decimals: 18,
 		symbol: "WETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
 	},
 	{
 		chainId: 4002,
-		address: "0x5AC835705BbfD18B9B74CF245f89E72A049cE53d",
+		address: "0x7510A9fa0823e9A0c918d65F166C764660E29332",
 		name: "Aave Fantom WETH",
 		decimals: 18,
 		symbol: "aFanWETH",
@@ -8662,24 +8668,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0xfa698e167bcCF7D33BE180f9944174573B276Ae7"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xa2E42c48Fd8C5f1297A4c9E022B84a0323b3A8c1"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x342dA39FD5983B38b1905E8192D6574769260EF5",
+		address: "0x81ab38C23007E209d6849516cca4666C3C73F57C",
 		name: "USDT",
 		decimals: 6,
 		symbol: "USDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 4002,
-		address: "0xad4777Fb45d37a0D312e29e386237CFEc37c77C4",
+		address: "0xbE3465382CFceF9E755A581D3242606A8594A11f",
 		name: "Aave Fantom USDT",
 		decimals: 6,
 		symbol: "aFanUSDT",
@@ -8687,24 +8695,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x342dA39FD5983B38b1905E8192D6574769260EF5"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0x81ab38C23007E209d6849516cca4666C3C73F57C"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x40d91bF3FC4523010848215319E14a2430601884",
+		address: "0xC13667568994e2e4Ff2292e284abb87F372FA683",
 		name: "AAVE",
 		decimals: 18,
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 4002,
-		address: "0x4FBf266CE6450593A97aFc4CDAaC6464220af392",
+		address: "0xE0E8eC1679DfdBD5bEd541085a9b534F9c0E9706",
 		name: "Aave Fantom AAVE",
 		decimals: 18,
 		symbol: "aFanAAVE",
@@ -8712,24 +8722,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x40d91bF3FC4523010848215319E14a2430601884"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xC13667568994e2e4Ff2292e284abb87F372FA683"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x9f031C6a25b4D261208f95900afD5bC66036398c",
+		address: "0xedBFeF5fD7b000bE55637606423642830a61c8Ed",
 		name: "WFTM",
 		decimals: 18,
 		symbol: "WFTM",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaM1pamJXjvNmvQTzfiYJUR16m1zngCfeGFXzFw4TdZF9"
 	},
 	{
 		chainId: 4002,
-		address: "0xc772D0984f6964f92595626CD5452f08f133F596",
+		address: "0xb2Fd1A598A6d02fbbFA0da80fA9233F4a0c561f9",
 		name: "Aave Fantom WFTM",
 		decimals: 18,
 		symbol: "aFanWFTM",
@@ -8737,24 +8749,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmd9YLBHhDCHdhf6djQjRTLSVQCvQQWHcYcsSReGpmN8eS",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x9f031C6a25b4D261208f95900afD5bC66036398c"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xedBFeF5fD7b000bE55637606423642830a61c8Ed"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x3E1ff6b26A6ddF68A211839698E7470399b688CD",
+		address: "0x6393e126E751fCBd25AFbC9b070b85936897Bec8",
 		name: "CRV",
 		decimals: 18,
 		symbol: "CRV",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
 	},
 	{
 		chainId: 4002,
-		address: "0xEd4b9eD83D4D85A0da1177a38E7b9fCe1887664E",
+		address: "0x3661c61689A26186bf213597d38Dd98291b10Bd1",
 		name: "Aave Fantom CRV",
 		decimals: 18,
 		symbol: "aFanCRV",
@@ -8762,24 +8776,26 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x3E1ff6b26A6ddF68A211839698E7470399b688CD"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0x6393e126E751fCBd25AFbC9b070b85936897Bec8"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x094cfb21d619375d9204e4de89Eaa3BAE48E5BD7",
+		address: "0xeA11DB46501aD66c16aB86B9A53d6fcD83B44f05",
 		name: "SUSHI",
 		decimals: 18,
 		symbol: "SUSHI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmSmt97RzEDb8KKj7KUXXohZAwVYamFAtKY2rZTdeD8j72"
 	},
 	{
 		chainId: 4002,
-		address: "0xaD3E8C272547b1E6443C5B9da3A944C0B3dB81F4",
+		address: "0xd5230f4ff837Cd5DB465587d7370DeF79Da17e05",
 		name: "Aave Fantom SUSHI",
 		decimals: 18,
 		symbol: "aFanSUSHI",
@@ -8787,9 +8803,10 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
 		extensions: {
-			pool: "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-			underlying: "0x094cfb21d619375d9204e4de89Eaa3BAE48E5BD7"
+			pool: "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+			underlying: "0xeA11DB46501aD66c16aB86B9A53d6fcD83B44f05"
 		}
 	},
 	{
@@ -8800,7 +8817,8 @@ var tokens = [
 		symbol: "DAI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
 	},
 	{
 		chainId: 250,
@@ -8812,6 +8830,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
@@ -8825,7 +8844,8 @@ var tokens = [
 		symbol: "LINK",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRtU7R1eZcfFTgBLX57zPufc3HFhW2BG5WyikqUfNdJqV"
 	},
 	{
 		chainId: 250,
@@ -8837,6 +8857,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
@@ -8850,7 +8871,8 @@ var tokens = [
 		symbol: "USDC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
 	},
 	{
 		chainId: 250,
@@ -8862,6 +8884,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
@@ -8875,7 +8898,8 @@ var tokens = [
 		symbol: "BTC",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmZJtx3PgAporannzoXtgGzC6pbzUyffeCkkVinSm3wACd"
 	},
 	{
 		chainId: 250,
@@ -8887,6 +8911,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmfJWCC1rubCBRyG1w6SjeTo9915JAGwCsFp4LPHhFiyZM",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x321162Cd933E2Be498Cd2267a90534A804051b11"
@@ -8900,7 +8925,8 @@ var tokens = [
 		symbol: "ETH",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://Qma2czudF6pWRodzgmA7gSWDLozZxMNoseGHdc5Ap72wLM"
 	},
 	{
 		chainId: 250,
@@ -8912,6 +8938,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmbTG48DGcZmUSBxvNnkMc7ZeLEAvWycBzznp9BFVgsPMb",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x74b23882a30290451A17c44f4F05243b6b58C76d"
@@ -8925,7 +8952,8 @@ var tokens = [
 		symbol: "fUSDT",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmRHsz7F8L6ThgiFpnoj9Q9Eum1Yj3H62VozZ7Yo2GmA41"
 	},
 	{
 		chainId: 250,
@@ -8937,6 +8965,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
@@ -8950,7 +8979,8 @@ var tokens = [
 		symbol: "AAVE",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
 	},
 	{
 		chainId: 250,
@@ -8962,6 +8992,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
@@ -8975,7 +9006,8 @@ var tokens = [
 		symbol: "WFTM",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmaM1pamJXjvNmvQTzfiYJUR16m1zngCfeGFXzFw4TdZF9"
 	},
 	{
 		chainId: 250,
@@ -8987,6 +9019,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://Qmd9YLBHhDCHdhf6djQjRTLSVQCvQQWHcYcsSReGpmN8eS",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
@@ -9000,7 +9033,8 @@ var tokens = [
 		symbol: "CRV",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
 	},
 	{
 		chainId: 250,
@@ -9012,6 +9046,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
@@ -9025,7 +9060,8 @@ var tokens = [
 		symbol: "SUSHI",
 		tags: [
 			"underlying"
-		]
+		],
+		logoURI: "ipfs://QmSmt97RzEDb8KKj7KUXXohZAwVYamFAtKY2rZTdeD8j72"
 	},
 	{
 		chainId: 250,
@@ -9037,6 +9073,7 @@ var tokens = [
 			"aTokenV3",
 			"aaveV3"
 		],
+		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
 		extensions: {
 			pool: "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
 			underlying: "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"

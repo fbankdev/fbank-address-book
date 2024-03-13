@@ -22,8 +22,8 @@
       "description": "Tokens that are wrapped into a 4626 Vault"
     }
   },
-  "timestamp": "2024-03-11T15:00:24.073Z",
-  "version": { "major": 3, "minor": 0, "patch": 11 },
+  "timestamp": "2024-03-13T03:26:00.341Z",
+  "version": { "major": 3, "minor": 0, "patch": 12 },
   "tokens": [
     {
       "chainId": 1,
@@ -6057,50 +6057,6 @@
       }
     },
     {
-      "chainId": 421614,
-      "address": "0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d",
-      "name": "USD Coin",
-      "decimals": 6,
-      "symbol": "USDC",
-      "tags": ["underlying"],
-      "logoURI": "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
-    },
-    {
-      "chainId": 421614,
-      "address": "0x460b97BD498E1157530AEb3086301d5225b91216",
-      "name": "Aave Arbitrum Sepolia USDC",
-      "decimals": 6,
-      "symbol": "aArbSepUSDC",
-      "tags": ["aTokenV3", "aaveV3"],
-      "logoURI": "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
-      "extensions": {
-        "pool": "0xBfC91D59fdAA134A4ED45f7B584cAf96D7792Eff",
-        "underlying": "0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
-      }
-    },
-    {
-      "chainId": 421614,
-      "address": "0x1dF462e2712496373A347f8ad10802a5E95f053D",
-      "name": "Wrapped Ether",
-      "decimals": 18,
-      "symbol": "WETH",
-      "tags": ["underlying"],
-      "logoURI": "ipfs://QmQUcgNk4wBhEchxQjjoSkvUXTb9Lzw9SCZoygwktjSNqd"
-    },
-    {
-      "chainId": 421614,
-      "address": "0xf5f17EbE81E516Dc7cB38D61908EC252F150CE60",
-      "name": "Aave Arbitrum Sepolia WETH",
-      "decimals": 18,
-      "symbol": "aArbSepWETH",
-      "tags": ["aTokenV3", "aaveV3"],
-      "logoURI": "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
-      "extensions": {
-        "pool": "0xBfC91D59fdAA134A4ED45f7B584cAf96D7792Eff",
-        "underlying": "0x1dF462e2712496373A347f8ad10802a5E95f053D"
-      }
-    },
-    {
       "chainId": 10,
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "name": "Dai Stablecoin",
@@ -6591,6 +6547,20 @@
       }
     },
     {
+      "chainId": 10,
+      "address": "0x4DD03dfD36548C840B563745e3FBeC320F37BA7e",
+      "name": "Static Aave Optimism USDCn",
+      "decimals": 6,
+      "symbol": "stataOptUSDCn",
+      "tags": ["aaveV3", "stataToken"],
+      "logoURI": "ipfs://QmRSVBEwfG2v5jV9aR8B9h2MjSig8MpqE2JuqtF1UmA9pP",
+      "extensions": {
+        "pool": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+        "underlying": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "underlyingAToken": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5"
+      }
+    },
+    {
       "chainId": 11155420,
       "address": "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
       "name": "USDC",
@@ -6920,7 +6890,7 @@
     },
     {
       "chainId": 4002,
-      "address": "0xcF1F89126cdA301A64976083CBeA0cA2E22a3d71",
+      "address": "0x6861f2FC3d4C3eAD19DBC8aCe1D57e0b9D3CE3Fc",
       "name": "DAI",
       "decimals": 18,
       "symbol": "DAI",
@@ -6929,20 +6899,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xEc1DBE9e5BfFe8010fDCe7D60B139404Ea10ed12",
+      "address": "0xC1b4FE615953d45D39d5Bcc89d6bED210326418d",
       "name": "Aave Fantom DAI",
       "decimals": 18,
       "symbol": "aFanDAI",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0xcF1F89126cdA301A64976083CBeA0cA2E22a3d71"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0x6861f2FC3d4C3eAD19DBC8aCe1D57e0b9D3CE3Fc"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x9f5d17A6361759e535b456dacD0B568668D2ba00",
+      "address": "0xa0Efac8263bB72a02fFE9696C69c24675b920D9B",
       "name": "LINK",
       "decimals": 18,
       "symbol": "LINK",
@@ -6951,20 +6921,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xe2088a776a4a464462D326FAFd1AA2da900C9F89",
+      "address": "0x8194FC6Ce5f1885ac84Fd92E4d7Aa1C85Ad5BF4F",
       "name": "Aave Fantom LINK",
       "decimals": 18,
       "symbol": "aFanLINK",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x9f5d17A6361759e535b456dacD0B568668D2ba00"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xa0Efac8263bB72a02fFE9696C69c24675b920D9B"
       }
     },
     {
       "chainId": 4002,
-      "address": "0xcd308B2F84B9186FB3ec5c95C674c651c862C405",
+      "address": "0xa37fFa2FC472855E16b7fE95237684C24BC05954",
       "name": "USDC",
       "decimals": 6,
       "symbol": "USDC",
@@ -6973,20 +6943,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xa8e86844e6576f247D36e12069C69F67713942F3",
+      "address": "0x001E9436C5215550CfBbD520f5EEe8c9C85f1980",
       "name": "Aave Fantom USDC",
       "decimals": 6,
       "symbol": "aFanUSDC",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0xcd308B2F84B9186FB3ec5c95C674c651c862C405"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xa37fFa2FC472855E16b7fE95237684C24BC05954"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x508Ed1616d13D0db963020bFc4C10e236a7fb005",
+      "address": "0x142943f1294e3b2D2feBb1515ED415C229D62235",
       "name": "WBTC",
       "decimals": 8,
       "symbol": "WBTC",
@@ -6995,20 +6965,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0x0Ea4531E4E3Adc051D4933524999C8c7B49cAC72",
+      "address": "0xeDAEAD24fC8D91D71454f933E609Ca806EF15113",
       "name": "Aave Fantom WBTC",
       "decimals": 8,
       "symbol": "aFanWBTC",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x508Ed1616d13D0db963020bFc4C10e236a7fb005"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0x142943f1294e3b2D2feBb1515ED415C229D62235"
       }
     },
     {
       "chainId": 4002,
-      "address": "0xfa698e167bcCF7D33BE180f9944174573B276Ae7",
+      "address": "0xa2E42c48Fd8C5f1297A4c9E022B84a0323b3A8c1",
       "name": "WETH",
       "decimals": 18,
       "symbol": "WETH",
@@ -7017,20 +6987,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0x5AC835705BbfD18B9B74CF245f89E72A049cE53d",
+      "address": "0x7510A9fa0823e9A0c918d65F166C764660E29332",
       "name": "Aave Fantom WETH",
       "decimals": 18,
       "symbol": "aFanWETH",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0xfa698e167bcCF7D33BE180f9944174573B276Ae7"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xa2E42c48Fd8C5f1297A4c9E022B84a0323b3A8c1"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x342dA39FD5983B38b1905E8192D6574769260EF5",
+      "address": "0x81ab38C23007E209d6849516cca4666C3C73F57C",
       "name": "USDT",
       "decimals": 6,
       "symbol": "USDT",
@@ -7039,20 +7009,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xad4777Fb45d37a0D312e29e386237CFEc37c77C4",
+      "address": "0xbE3465382CFceF9E755A581D3242606A8594A11f",
       "name": "Aave Fantom USDT",
       "decimals": 6,
       "symbol": "aFanUSDT",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x342dA39FD5983B38b1905E8192D6574769260EF5"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0x81ab38C23007E209d6849516cca4666C3C73F57C"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x40d91bF3FC4523010848215319E14a2430601884",
+      "address": "0xC13667568994e2e4Ff2292e284abb87F372FA683",
       "name": "AAVE",
       "decimals": 18,
       "symbol": "AAVE",
@@ -7061,20 +7031,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0x4FBf266CE6450593A97aFc4CDAaC6464220af392",
+      "address": "0xE0E8eC1679DfdBD5bEd541085a9b534F9c0E9706",
       "name": "Aave Fantom AAVE",
       "decimals": 18,
       "symbol": "aFanAAVE",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x40d91bF3FC4523010848215319E14a2430601884"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xC13667568994e2e4Ff2292e284abb87F372FA683"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x9f031C6a25b4D261208f95900afD5bC66036398c",
+      "address": "0xedBFeF5fD7b000bE55637606423642830a61c8Ed",
       "name": "WFTM",
       "decimals": 18,
       "symbol": "WFTM",
@@ -7083,20 +7053,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xc772D0984f6964f92595626CD5452f08f133F596",
+      "address": "0xb2Fd1A598A6d02fbbFA0da80fA9233F4a0c561f9",
       "name": "Aave Fantom WFTM",
       "decimals": 18,
       "symbol": "aFanWFTM",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://Qmd9YLBHhDCHdhf6djQjRTLSVQCvQQWHcYcsSReGpmN8eS",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x9f031C6a25b4D261208f95900afD5bC66036398c"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xedBFeF5fD7b000bE55637606423642830a61c8Ed"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x3E1ff6b26A6ddF68A211839698E7470399b688CD",
+      "address": "0x6393e126E751fCBd25AFbC9b070b85936897Bec8",
       "name": "CRV",
       "decimals": 18,
       "symbol": "CRV",
@@ -7105,20 +7075,20 @@
     },
     {
       "chainId": 4002,
-      "address": "0xEd4b9eD83D4D85A0da1177a38E7b9fCe1887664E",
+      "address": "0x3661c61689A26186bf213597d38Dd98291b10Bd1",
       "name": "Aave Fantom CRV",
       "decimals": 18,
       "symbol": "aFanCRV",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x3E1ff6b26A6ddF68A211839698E7470399b688CD"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0x6393e126E751fCBd25AFbC9b070b85936897Bec8"
       }
     },
     {
       "chainId": 4002,
-      "address": "0x094cfb21d619375d9204e4de89Eaa3BAE48E5BD7",
+      "address": "0xeA11DB46501aD66c16aB86B9A53d6fcD83B44f05",
       "name": "SUSHI",
       "decimals": 18,
       "symbol": "SUSHI",
@@ -7127,15 +7097,15 @@
     },
     {
       "chainId": 4002,
-      "address": "0xaD3E8C272547b1E6443C5B9da3A944C0B3dB81F4",
+      "address": "0xd5230f4ff837Cd5DB465587d7370DeF79Da17e05",
       "name": "Aave Fantom SUSHI",
       "decimals": 18,
       "symbol": "aFanSUSHI",
       "tags": ["aTokenV3", "aaveV3"],
       "logoURI": "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
       "extensions": {
-        "pool": "0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6",
-        "underlying": "0x094cfb21d619375d9204e4de89Eaa3BAE48E5BD7"
+        "pool": "0x06a5fEe1B05363D16CC44562d4980DD87BF9c9B7",
+        "underlying": "0xeA11DB46501aD66c16aB86B9A53d6fcD83B44f05"
       }
     },
     {

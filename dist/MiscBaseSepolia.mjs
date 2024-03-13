@@ -1,0 +1,10 @@
+// src/ts/MiscBaseSepolia.ts
+var TRANSPARENT_PROXY_FACTORY = "0xD90f09Ea5eE893b8c0564719E855f1CF0455D894";
+var PROXY_ADMIN = "0xF9e48edc704BDF494309cA457BCea4c0696f591d";
+var CHAIN_ID = 84532;
+export {
+  CHAIN_ID,
+  PROXY_ADMIN,
+  TRANSPARENT_PROXY_FACTORY
+};
+//# sourceMappingURL=MiscBaseSepolia.mjs.map

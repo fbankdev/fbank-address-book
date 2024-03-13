@@ -21,14 +21,20 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 var MiscArbitrumSepolia_exports = {};
 __export(MiscArbitrumSepolia_exports, {
   CHAIN_ID: () => CHAIN_ID,
-  GHO_TOKEN: () => GHO_TOKEN
+  GHO_TOKEN: () => GHO_TOKEN,
+  PROXY_ADMIN: () => PROXY_ADMIN,
+  TRANSPARENT_PROXY_FACTORY: () => TRANSPARENT_PROXY_FACTORY
 });
 module.exports = __toCommonJS(MiscArbitrumSepolia_exports);
+var TRANSPARENT_PROXY_FACTORY = "0x43A8B7eC945a12a3Acb127B77ede19bd73ad76f8";
+var PROXY_ADMIN = "0xCB5B3ca20603231945dC5731C33E7f7F7679Ea89";
 var GHO_TOKEN = "0xb13Cfa6f8B2Eed2C37fB00fF0c1A59807C585810";
 var CHAIN_ID = 421614;
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
   CHAIN_ID,
-  GHO_TOKEN
+  GHO_TOKEN,
+  PROXY_ADMIN,
+  TRANSPARENT_PROXY_FACTORY
 });
 //# sourceMappingURL=MiscArbitrumSepolia.js.map
