@@ -14,6 +14,10 @@ library AaveV3FantomTestnet {
   IPool internal constant POOL = IPool(0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6);
 
   // https://testnet.ftmscan.com/address/0x98578d751EA96C593235d754B2688b6b0c7cC6A9
+  // https://testnet.ftmscan.com/address/0x685b86a6659a1CbcfE168304386e1b54C543Ce16
+  address internal constant POOL_IMPL = 0x685b86a6659a1CbcfE168304386e1b54C543Ce16;
+
+  // https://testnet.ftmscan.com/address/0x257a6f06192D532e40F66b3DDfE2cBBaf8373822
   IPoolConfigurator internal constant POOL_CONFIGURATOR =
     IPoolConfigurator(0x98578d751EA96C593235d754B2688b6b0c7cC6A9);
 

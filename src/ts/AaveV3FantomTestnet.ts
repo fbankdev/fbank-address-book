@@ -5,17 +5,20 @@ export const POOL_ADDRESSES_PROVIDER = '0xBe8d95E9e8F6B852371b21dc3Ce36CF9440a64
 // IPool https://testnet.ftmscan.com/address/0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6
 export const POOL = '0x9c19e7cB4854C0E8EC6fD4fC4539e093c8022cF6';
 
-// IPoolConfigurator https://testnet.ftmscan.com/address/0x98578d751EA96C593235d754B2688b6b0c7cC6A9
-export const POOL_CONFIGURATOR = '0x98578d751EA96C593235d754B2688b6b0c7cC6A9';
+// https://testnet.ftmscan.com/address/0x685b86a6659a1CbcfE168304386e1b54C543Ce16
+export const POOL_IMPL = '0x685b86a6659a1CbcfE168304386e1b54C543Ce16';
 
-// IAaveOracle https://testnet.ftmscan.com/address/0x410F8C1eb2fCc43f7a87a276b8838a381c6e4d81
-export const ORACLE = '0x410F8C1eb2fCc43f7a87a276b8838a381c6e4d81';
+// IPoolConfigurator https://testnet.ftmscan.com/address/0x257a6f06192D532e40F66b3DDfE2cBBaf8373822
+export const POOL_CONFIGURATOR = '0x257a6f06192D532e40F66b3DDfE2cBBaf8373822';
 
-// https://testnet.ftmscan.com/address/0x0000000000000000000000000000000000000000
-export const PRICE_ORACLE_SENTINEL = '0x0000000000000000000000000000000000000000';
+// https://testnet.ftmscan.com/address/0x1034d6131E0E7F2F47bFAd06597ed97b35aA5492
+export const POOL_CONFIGURATOR_IMPL = '0x1034d6131E0E7F2F47bFAd06597ed97b35aA5492';
 
-// IPoolDataProvider https://testnet.ftmscan.com/address/0x5b779b731123B41a40fFA8223e1b787fBb449126
-export const AAVE_PROTOCOL_DATA_PROVIDER = '0x5b779b731123B41a40fFA8223e1b787fBb449126';
+// IAaveOracle https://testnet.ftmscan.com/address/0x18a8d31dA46eeb9138a16dfC429E74C04ff523F4
+export const ORACLE = '0x18a8d31dA46eeb9138a16dfC429E74C04ff523F4';
+
+// IPoolDataProvider https://testnet.ftmscan.com/address/0x3c9F4EEa18B02ee331218646Fea59EE3661d2A61
+export const AAVE_PROTOCOL_DATA_PROVIDER = '0x3c9F4EEa18B02ee331218646Fea59EE3661d2A61';
 
 // IACLManager https://testnet.ftmscan.com/address/0x28f537fd3C43Cf02ce727f4348Ad252b1A2cd0F2
 export const ACL_MANAGER = '0x28f537fd3C43Cf02ce727f4348Ad252b1A2cd0F2';

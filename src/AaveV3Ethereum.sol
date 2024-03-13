@@ -13,15 +13,18 @@ library AaveV3Ethereum {
   // https://etherscan.io/address/0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2
   IPool internal constant POOL = IPool(0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2);
 
+  // https://etherscan.io/address/0x5FAab9E1adbddaD0a08734BE8a52185Fd6558E14
+  address internal constant POOL_IMPL = 0x5FAab9E1adbddaD0a08734BE8a52185Fd6558E14;
+
   // https://etherscan.io/address/0x64b761D848206f447Fe2dd461b0c635Ec39EbB27
   IPoolConfigurator internal constant POOL_CONFIGURATOR =
     IPoolConfigurator(0x64b761D848206f447Fe2dd461b0c635Ec39EbB27);
 
+  // https://etherscan.io/address/0xFDA7ffA872bDc906D43079EA134ebC9a511db0c2
+  address internal constant POOL_CONFIGURATOR_IMPL = 0xFDA7ffA872bDc906D43079EA134ebC9a511db0c2;
+
   // https://etherscan.io/address/0x54586bE62E3c3580375aE3723C145253060Ca0C2
   IAaveOracle internal constant ORACLE = IAaveOracle(0x54586bE62E3c3580375aE3723C145253060Ca0C2);
-
-  // https://etherscan.io/address/0x0000000000000000000000000000000000000000
-  address internal constant PRICE_ORACLE_SENTINEL = 0x0000000000000000000000000000000000000000;
 
   // https://etherscan.io/address/0x7B4EB56E7CD4b454BA8ff71E4518426369a138a3
   IPoolDataProvider internal constant AAVE_PROTOCOL_DATA_PROVIDER =
@@ -561,8 +564,8 @@ library AaveV3EthereumAssets {
   // https://etherscan.io/address/0xD110cac5d8682A3b045D5524a9903E031d70FCCd
   address internal constant GHO_ORACLE = 0xD110cac5d8682A3b045D5524a9903E031d70FCCd;
 
-  // https://etherscan.io/address/0x00524e8E4C5FD2b8D8aa1226fA16b39Cad69B8A0
-  address internal constant GHO_INTEREST_RATE_STRATEGY = 0x00524e8E4C5FD2b8D8aa1226fA16b39Cad69B8A0;
+  // https://etherscan.io/address/0x3a4D5316ec79622686a19f69CE546997cC8e8514
+  address internal constant GHO_INTEREST_RATE_STRATEGY = 0x3a4D5316ec79622686a19f69CE546997cC8e8514;
 
   // https://etherscan.io/address/0xD33526068D116cE69F19A9ee46F0bd304F21A51f
   address internal constant RPL_UNDERLYING = 0xD33526068D116cE69F19A9ee46F0bd304F21A51f;

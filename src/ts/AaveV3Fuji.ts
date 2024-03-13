@@ -5,14 +5,17 @@ export const POOL_ADDRESSES_PROVIDER = '0xfb87056c0587923f15EB0aABc7d0572450Cc80
 // IPool https://testnet.snowtrace.io/address/0xccEa5C65f6d4F465B71501418b88FBe4e7071283
 export const POOL = '0xccEa5C65f6d4F465B71501418b88FBe4e7071283';
 
+// https://testnet.snowtrace.io/address/0x987F9410f61c56F0d0D2F44B783d7E1B75141249
+export const POOL_IMPL = '0x987F9410f61c56F0d0D2F44B783d7E1B75141249';
+
 // IPoolConfigurator https://testnet.snowtrace.io/address/0x34b80e82dFa833D65ef7618Cfc22bb1F359adce7
 export const POOL_CONFIGURATOR = '0x34b80e82dFa833D65ef7618Cfc22bb1F359adce7';
 
+// https://testnet.snowtrace.io/address/0x892E31b5a218879C9dbe258f691897AC28c5e061
+export const POOL_CONFIGURATOR_IMPL = '0x892E31b5a218879C9dbe258f691897AC28c5e061';
+
 // IAaveOracle https://testnet.snowtrace.io/address/0x4DaE2f0f4Db78115eF114F1Dfef426ef2A4fC318
 export const ORACLE = '0x4DaE2f0f4Db78115eF114F1Dfef426ef2A4fC318';
-
-// https://testnet.snowtrace.io/address/0x0000000000000000000000000000000000000000
-export const PRICE_ORACLE_SENTINEL = '0x0000000000000000000000000000000000000000';
 
 // IPoolDataProvider https://testnet.snowtrace.io/address/0x544b4e38fC2E74DAd9a3C2f783A15776C0C25c51
 export const AAVE_PROTOCOL_DATA_PROVIDER = '0x544b4e38fC2E74DAd9a3C2f783A15776C0C25c51';
