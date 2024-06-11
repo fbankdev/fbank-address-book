@@ -12,27 +12,27 @@ export { G as GovernanceV3Scroll } from './GovernanceV3Scroll-xQkB0qCC.mjs';
 export { G as GovernanceV3PolygonZkEvm } from './GovernanceV3PolygonZkEvm-_6K98DI7.mjs';
 export { A as AaveV2EthereumAMM } from './AaveV2EthereumAMM-_rK4k-g1.mjs';
 export { A as AaveV2EthereumArc } from './AaveV2EthereumArc-h1_0P5GQ.mjs';
-export { A as AaveV2Ethereum } from './AaveV2Ethereum-OKXMkGGu.mjs';
+export { A as AaveV2Ethereum } from './AaveV2Ethereum-tFpRhuAW.mjs';
 export { A as AaveV2Polygon } from './AaveV2Polygon-1tGmfPp2.mjs';
 export { A as AaveV2Fuji } from './AaveV2Fuji-metRXuXC.mjs';
 export { A as AaveV2Avalanche } from './AaveV2Avalanche-bCyodtJJ.mjs';
-export { A as AaveV3Ethereum } from './AaveV3Ethereum-gVlpbBuz.mjs';
+export { A as AaveV3Ethereum } from './AaveV3Ethereum-TFVkq4QG.mjs';
 export { A as AaveV3Sepolia } from './AaveV3Sepolia-h67vD_Ne.mjs';
 export { A as AaveV3Polygon } from './AaveV3Polygon-_wq-IcHn.mjs';
 export { A as AaveV3Avalanche } from './AaveV3Avalanche-llTRQELu.mjs';
 export { A as AaveV3Fuji } from './AaveV3Fuji-niupURtd.mjs';
-export { A as AaveV3Base } from './AaveV3Base-UmTaXRJC.mjs';
+export { A as AaveV3Base } from './AaveV3Base-iEyNMHif.mjs';
 export { A as AaveV3BaseSepolia } from './AaveV3BaseSepolia-VQxOvV9U.mjs';
 export { A as AaveV3Metis } from './AaveV3Metis-4GmN4B9U.mjs';
 export { A as AaveV3Gnosis } from './AaveV3Gnosis-2dNrwk1a.mjs';
 export { A as AaveV3PolygonZkEvm } from './AaveV3PolygonZkEvm-b2ZocGD4.mjs';
 export { A as AaveV3BNB } from './AaveV3BNB-ttANHBNM.mjs';
-export { A as AaveV3Arbitrum } from './AaveV3Arbitrum-LzyqBNhQ.mjs';
+export { A as AaveV3Arbitrum } from './AaveV3Arbitrum-tAczvq0V.mjs';
 export { A as AaveV3Optimism } from './AaveV3Optimism-iL_R1Prr.mjs';
 export { A as AaveV3OptimismSepolia } from './AaveV3OptimismSepolia-Y45-m6qm.mjs';
 export { A as AaveV3Scroll } from './AaveV3Scroll-4y5hLaGK.mjs';
 export { A as AaveV3ScrollSepolia } from './AaveV3ScrollSepolia-5DUDKGa-.mjs';
-export { A as AaveV3FantomTestnet } from './AaveV3FantomTestnet-wxpo6xYd.mjs';
+export { A as AaveV3FantomTestnet } from './AaveV3FantomTestnet-f8D99kqT.mjs';
 export { A as AaveV3Fantom } from './AaveV3Fantom-0EgVfzWk.mjs';
 export { M as MiscArbitrum } from './MiscArbitrum-XrIMyJIZ.mjs';
 export { M as MiscArbitrumSepolia } from './MiscArbitrumSepolia-WznklaAc.mjs';
@@ -119,11 +119,11 @@ var tags = {
 		description: "Tokens that are wrapped into a 4626 Vault"
 	}
 };
-var timestamp = "2024-05-13T07:17:51.855Z";
+var timestamp = "2024-06-11T03:12:44.934Z";
 var version = {
 	major: 3,
 	minor: 0,
-	patch: 13
+	patch: 14
 };
 var tokens = [
 	{
@@ -3091,6 +3091,31 @@ var tokens = [
 		}
 	},
 	{
+		chainId: 1,
+		address: "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+		name: "USDe",
+		decimals: 18,
+		symbol: "USDe",
+		tags: [
+			"underlying"
+		]
+	},
+	{
+		chainId: 1,
+		address: "0x4F5923Fc5FD4a93352581b38B7cD26943012DECF",
+		name: "Aave Ethereum USDe",
+		decimals: 18,
+		symbol: "aEthUSDe",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		extensions: {
+			pool: "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
+			underlying: "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3"
+		}
+	},
+	{
 		chainId: 11155111,
 		address: "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
 		name: "DAI",
@@ -5137,6 +5162,31 @@ var tokens = [
 			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
 			underlying: "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
 			underlyingAToken: "0x4e65fE4DbA92790696d040ac24Aa414708F5c0AB"
+		}
+	},
+	{
+		chainId: 8453,
+		address: "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+		name: "Wrapped eETH",
+		decimals: 18,
+		symbol: "weETH",
+		tags: [
+			"underlying"
+		]
+	},
+	{
+		chainId: 8453,
+		address: "0x7C307e128efA31F540F2E2d976C995E0B65F51F6",
+		name: "Aave Base weETH",
+		decimals: 18,
+		symbol: "aBasweETH",
+		tags: [
+			"aTokenV3",
+			"aaveV3"
+		],
+		extensions: {
+			pool: "0xA238Dd80C259a72e81d7e4664a9801593F98d1c5",
+			underlying: "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A"
 		}
 	},
 	{
@@ -7734,34 +7784,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0xdF0687BCcb6bb7D046d26a5Cf38D81758468ab10",
-		name: "DAI",
-		decimals: 18,
-		symbol: "DAI",
-		tags: [
-			"underlying"
-		],
-		logoURI: "ipfs://QmP42hY9w4hkYyMtjwm86HmzMmUxx76pjyUNXT5VL6ndMa"
-	},
-	{
-		chainId: 4002,
-		address: "0x2D2771A626DAAd0F1D0b5A1C28db73950d624448",
-		name: "Aave Feliz DAI",
-		decimals: 18,
-		symbol: "aFelizDAI",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		logoURI: "ipfs://QmZFb7b8XfBoGUqPvpycN8RCxRNrcydbxZc7E7j8uq4yGW",
-		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0xdF0687BCcb6bb7D046d26a5Cf38D81758468ab10"
-		}
-	},
-	{
-		chainId: 4002,
-		address: "0x7567951F7A80505D0CAa843113834ed4dD0f7Fe5",
+		address: "0x8EEB7426eaD92914fA466B6B39767e98C01C8EE9",
 		name: "LINK",
 		decimals: 18,
 		symbol: "LINK",
@@ -7772,7 +7795,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0xc028Ce7431ABa4d621453Fb30b2b2Dd67a79196b",
+		address: "0x9F2E45d48E726824aA18A572D773C89Ea2977ae6",
 		name: "Aave Feliz LINK",
 		decimals: 18,
 		symbol: "aFelizLINK",
@@ -7782,40 +7805,13 @@ var tokens = [
 		],
 		logoURI: "ipfs://QmaqAt4UdDdo1mX4JRbYp1bz6VL84acFeRS3B3DjCYver2",
 		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x7567951F7A80505D0CAa843113834ed4dD0f7Fe5"
+			pool: "0x8A68E843ecA1c5aA7fE105334A3F0f2417229950",
+			underlying: "0x8EEB7426eaD92914fA466B6B39767e98C01C8EE9"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x07BAecfcCd919e54c186554Ab43574519F8d3cfE",
-		name: "USDC",
-		decimals: 6,
-		symbol: "USDC",
-		tags: [
-			"underlying"
-		],
-		logoURI: "ipfs://QmbhThHCdcMQ5bmQLpQ5zQsXHjP6jXoe84CGFuxEVskiV9"
-	},
-	{
-		chainId: 4002,
-		address: "0xd69EBc885a338CD842eB1B9B3ba9BBf3De609b83",
-		name: "Aave Feliz USDC",
-		decimals: 6,
-		symbol: "aFelizUSDC",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		logoURI: "ipfs://QmcUgFhpDzaGxQXvacRJjnQeECQhVCGWNkRfouu8hCkESo",
-		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x07BAecfcCd919e54c186554Ab43574519F8d3cfE"
-		}
-	},
-	{
-		chainId: 4002,
-		address: "0x8e4Fde5647b31566C1bf8c7AE0f5558aA17b0Cd1",
+		address: "0x4968dAb483AB23872821D24D7f88cA4C6C2D99e1",
 		name: "WBTC",
 		decimals: 8,
 		symbol: "WBTC",
@@ -7826,7 +7822,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0xeEe16cE6F70b5f7D6c04bCf6E29FE027611AA745",
+		address: "0x51BAd5C2c0C8Fe9D795A8B3Ccd3871D0d467C179",
 		name: "Aave Feliz WBTC",
 		decimals: 8,
 		symbol: "aFelizWBTC",
@@ -7836,13 +7832,13 @@ var tokens = [
 		],
 		logoURI: "ipfs://QmWABHZfGJHBAQU27Bv77btjKGg822j89La9q7BuVEPXkr",
 		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x8e4Fde5647b31566C1bf8c7AE0f5558aA17b0Cd1"
+			pool: "0x8A68E843ecA1c5aA7fE105334A3F0f2417229950",
+			underlying: "0x4968dAb483AB23872821D24D7f88cA4C6C2D99e1"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x7f0a70f9737EC6B3C3b6Ad93b536f332Eed8a0EF",
+		address: "0x0F12fd2495918a4dC4345e94BDe248274B993740",
 		name: "WETH",
 		decimals: 18,
 		symbol: "WETH",
@@ -7853,7 +7849,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0xEF9D79EbC57FE94CEA2157d1789841deD482965c",
+		address: "0xD7f8978397D3b63418d392bD4a9870F63F4f34dD",
 		name: "Aave Feliz WETH",
 		decimals: 18,
 		symbol: "aFelizWETH",
@@ -7863,13 +7859,13 @@ var tokens = [
 		],
 		logoURI: "ipfs://Qma7MhjhSCiMyjDs1Zu3csUH4gYnPsT2DWPH7E9VjJDX2a",
 		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x7f0a70f9737EC6B3C3b6Ad93b536f332Eed8a0EF"
+			pool: "0x8A68E843ecA1c5aA7fE105334A3F0f2417229950",
+			underlying: "0x0F12fd2495918a4dC4345e94BDe248274B993740"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x5904aEF9215D681e2Fcd63040DBb955d24C778EA",
+		address: "0xc7DdDe830db19Bd94DD584dCAC774f0Be47B29d1",
 		name: "USDT",
 		decimals: 6,
 		symbol: "USDT",
@@ -7880,7 +7876,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0x442447221D6cD2E9Ff8e0dB48907a03d1Be2E0B8",
+		address: "0x0eA1eD91A9651e52CaF4c739b89c73c65FeBF417",
 		name: "Aave Feliz USDT",
 		decimals: 6,
 		symbol: "aFelizUSDT",
@@ -7890,40 +7886,13 @@ var tokens = [
 		],
 		logoURI: "ipfs://QmdoQn7UG2qPbY83ud71i71k8dqGrtNbXpvsZTAnWmVQDc",
 		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x5904aEF9215D681e2Fcd63040DBb955d24C778EA"
+			pool: "0x8A68E843ecA1c5aA7fE105334A3F0f2417229950",
+			underlying: "0xc7DdDe830db19Bd94DD584dCAC774f0Be47B29d1"
 		}
 	},
 	{
 		chainId: 4002,
-		address: "0x8f28c17affc0Fce7C68bfFb130253E93b99Abcba",
-		name: "AAVE",
-		decimals: 18,
-		symbol: "AAVE",
-		tags: [
-			"underlying"
-		],
-		logoURI: "ipfs://QmbvaU6evuhijKW7hPutLtoGuayT18NGfnXcRFf78PE2iC"
-	},
-	{
-		chainId: 4002,
-		address: "0x5fbBdEf9E8139dCdfcd7Cd661dC66245E7c051e1",
-		name: "Aave Feliz AAVE",
-		decimals: 18,
-		symbol: "aFelizAAVE",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		logoURI: "ipfs://QmPt4MTu1qM4JqPUndTUaVH2H8TaPpKQH1PcsPARsvykPv",
-		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x8f28c17affc0Fce7C68bfFb130253E93b99Abcba"
-		}
-	},
-	{
-		chainId: 4002,
-		address: "0x71E10f1BeD205C1212B4d1Ce4a32BdB7295BFbC0",
+		address: "0xE8175A3C1Dd1337aD276a8105ae6375367bf620B",
 		name: "WFTM",
 		decimals: 18,
 		symbol: "WFTM",
@@ -7934,7 +7903,7 @@ var tokens = [
 	},
 	{
 		chainId: 4002,
-		address: "0x11f77005Da9a3432c7Fcb6622534Bf4E722f233B",
+		address: "0x3395658FDD5b973d1A9554436d73461B210ebA43",
 		name: "Aave Feliz WFTM",
 		decimals: 18,
 		symbol: "aFelizWFTM",
@@ -7944,62 +7913,8 @@ var tokens = [
 		],
 		logoURI: "ipfs://Qmd9YLBHhDCHdhf6djQjRTLSVQCvQQWHcYcsSReGpmN8eS",
 		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x71E10f1BeD205C1212B4d1Ce4a32BdB7295BFbC0"
-		}
-	},
-	{
-		chainId: 4002,
-		address: "0x8763ce2AD58Cf589F18d868c43FEfA21BE6310DA",
-		name: "CRV",
-		decimals: 18,
-		symbol: "CRV",
-		tags: [
-			"underlying"
-		],
-		logoURI: "ipfs://QmbZMDbLbDHHEU7rd7VBnUL9UaMiQeDRbCtZ51cfBSMm3c"
-	},
-	{
-		chainId: 4002,
-		address: "0x45c8618053Bb5399f705Bf14114AfAb676946895",
-		name: "Aave Feliz CRV",
-		decimals: 18,
-		symbol: "aFelizCRV",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		logoURI: "ipfs://QmdcjSrWusxA73cpKw7htf7XaLxgR3o9ScLobYs4KiP1kX",
-		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0x8763ce2AD58Cf589F18d868c43FEfA21BE6310DA"
-		}
-	},
-	{
-		chainId: 4002,
-		address: "0xe733F960BF9Eab5993Dccd61856579939bA2019f",
-		name: "SUSHI",
-		decimals: 18,
-		symbol: "SUSHI",
-		tags: [
-			"underlying"
-		],
-		logoURI: "ipfs://QmSmt97RzEDb8KKj7KUXXohZAwVYamFAtKY2rZTdeD8j72"
-	},
-	{
-		chainId: 4002,
-		address: "0x664eD46f40749015279bdcbD7d8773bC7Ae1B866",
-		name: "Aave Feliz SUSHI",
-		decimals: 18,
-		symbol: "aFelizSUSHI",
-		tags: [
-			"aTokenV3",
-			"aaveV3"
-		],
-		logoURI: "ipfs://QmTgPCnMmtKBiid5PFMFLNMttThFbvd5aXzFCaoX51Rtpu",
-		extensions: {
-			pool: "0x692E995C17200aaC2BE2E2f4E879b7762eC1d4bb",
-			underlying: "0xe733F960BF9Eab5993Dccd61856579939bA2019f"
+			pool: "0x8A68E843ecA1c5aA7fE105334A3F0f2417229950",
+			underlying: "0xE8175A3C1Dd1337aD276a8105ae6375367bf620B"
 		}
 	},
 	{
